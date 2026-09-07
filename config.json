@@ -1,4 +1,10 @@
 {
   "finLanzamientoGratis": "2026-08-31",
-  "finLanzamientoGratisIos": "2026-01-01"
+  "finLanzamientoGratisIos": "2026-01-01",
+  "cartero_real": {
+    "enabled": false,
+    "desde": "2026-12-01",
+    "precio_texto": "5,99 €",
+    "producto_id": "cartero_real_2026"
+  }
 }
