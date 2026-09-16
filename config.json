@@ -4,6 +4,7 @@
   "cartero_real": {
     "enabled": false,
     "desde": "2026-12-01",
+    "min_build": 23,
     "precio_texto": "5,99 €",
     "producto_id": "cartero_real_2026"
   }
