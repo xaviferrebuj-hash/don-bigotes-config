@@ -5,7 +5,15 @@
     "enabled": false,
     "desde": "2026-12-01",
     "min_build": 23,
+    "min_build_ios": 10,
     "precio_texto": "5,99 €",
     "producto_id": "cartero_real_2026"
+  },
+  "audio_paquetes": {
+    "cartero": {
+      "version": 1,
+      "min_build": 23,
+      "min_build_ios": 10
+    }
   }
 }

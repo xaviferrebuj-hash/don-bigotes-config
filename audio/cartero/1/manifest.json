@@ -1,0 +1,1507 @@
+{
+  "paquete": "cartero",
+  "version": 1,
+  "bytes": 2179354,
+  "ficheros": [
+    {
+      "ruta": "hito1-A.m4a",
+      "bytes": 12178,
+      "sha256": "215375871bca89e559d295ce0147a4d088cc7b8fb3f1943f2b67ebde59957cb6"
+    },
+    {
+      "ruta": "hito1-B.m4a",
+      "bytes": 23280,
+      "sha256": "d0ddfaaa267460515d6957605cc148d0433db8ceb1c82a9a95715220396b9026"
+    },
+    {
+      "ruta": "hito2-A.m4a",
+      "bytes": 11046,
+      "sha256": "6c3b2aa329ea026cd78e1fbb3df4f303abc6af9249807a9d39f02087503a9d44"
+    },
+    {
+      "ruta": "hito2-B.m4a",
+      "bytes": 22873,
+      "sha256": "442784a6d65063861f44132a0a248a2f9f399678fe3686098a483f08a0be1eb4"
+    },
+    {
+      "ruta": "hito3-A.m4a",
+      "bytes": 14587,
+      "sha256": "44bc3963eb16a7ac519cf4e6477ea7cc2552c2fa976c55e06d0190f2b1e366a2"
+    },
+    {
+      "ruta": "hito3-B.m4a",
+      "bytes": 19633,
+      "sha256": "27c3419d9565e91e0d73a4eac21f0cdb6051045ff7422338adbe1271c3873ef8"
+    },
+    {
+      "ruta": "hito4-A.m4a",
+      "bytes": 13796,
+      "sha256": "370476f656db7fd1299878f2521b7c4db4cd53d9c195fd9b914be28b1f133273"
+    },
+    {
+      "ruta": "hito4-B.m4a",
+      "bytes": 17647,
+      "sha256": "e5b2675a77e2fdb94543092a2f1268aae2f7719b7fc19cc1e56fd45a5b4a00f3"
+    },
+    {
+      "ruta": "melchor/m_c1.m4a",
+      "bytes": 30855,
+      "sha256": "63e5e3956b4244c8245b6a9ac045d577a8964ab03a230a1e0ced450eacf288ea"
+    },
+    {
+      "ruta": "melchor/m_c2.m4a",
+      "bytes": 68191,
+      "sha256": "12031f989e570ec54bb83e2d4520023ce2fed91e845ae697e8af085f3ab67856"
+    },
+    {
+      "ruta": "melchor/m_c3.m4a",
+      "bytes": 82313,
+      "sha256": "5a373cf474dd71fce808f173b071681d9bcdf277843ddf6ab9575edc98b1a614"
+    },
+    {
+      "ruta": "nombres-v1/aaron.m4a",
+      "bytes": 6015,
+      "sha256": "68d30ef1b9bafa25c8ec06598b495c299b12e27c2ddf11308bee941beec196b3"
+    },
+    {
+      "ruta": "nombres-v1/abril.m4a",
+      "bytes": 5849,
+      "sha256": "7f5ff4bca03c4ba793d27efe951053127813fd37b870f8f8c8d17243d7203037"
+    },
+    {
+      "ruta": "nombres-v1/ada.m4a",
+      "bytes": 5751,
+      "sha256": "ecb3bf469cee2bb97e6371d357c01673932cd7d85f80c400d8ce0efbf8ff4ec4"
+    },
+    {
+      "ruta": "nombres-v1/adam.m4a",
+      "bytes": 5421,
+      "sha256": "25e85d87d5a3ced46833a28ef7ff9688864dde29472217560ff6303bbf90528a"
+    },
+    {
+      "ruta": "nombres-v1/adara.m4a",
+      "bytes": 6047,
+      "sha256": "ea2ad42ab6b8c56f171d07b500ad0870b8615805878bfceec578efa73e8f98e1"
+    },
+    {
+      "ruta": "nombres-v1/aday.m4a",
+      "bytes": 4943,
+      "sha256": "f752d09dd83c7f8733c5d3d6f46319439fad02cbd5d385d2dec366d997fafc91"
+    },
+    {
+      "ruta": "nombres-v1/adrian.m4a",
+      "bytes": 6782,
+      "sha256": "cdc99780733cc66612f22329be24766c6da73f72841d213f6f7c180d82b93446"
+    },
+    {
+      "ruta": "nombres-v1/adriana.m4a",
+      "bytes": 7590,
+      "sha256": "ee95910250cb677e5aec257d570632b45a20eab958fbfeecb048123ff5f6b52c"
+    },
+    {
+      "ruta": "nombres-v1/africa.m4a",
+      "bytes": 6681,
+      "sha256": "756fc4af9be29bcd3afecc0f878530318f352c9677958b6d07f0d985851d1be4"
+    },
+    {
+      "ruta": "nombres-v1/agustin.m4a",
+      "bytes": 7361,
+      "sha256": "ac2c146d341020b4c2ffd2d13507cb93530250be90340a5b7f098de35bb31760"
+    },
+    {
+      "ruta": "nombres-v1/agustina.m4a",
+      "bytes": 8388,
+      "sha256": "18fa04fcd0b9bfec7854d2ceed0728ae58258cde2e7ad5f702dde42ef490e40a"
+    },
+    {
+      "ruta": "nombres-v1/aina.m4a",
+      "bytes": 6076,
+      "sha256": "f5f1458f03808e7cbd470be8e5803a054d697cf9477f43836cbe27d4038c95e5"
+    },
+    {
+      "ruta": "nombres-v1/ainara.m4a",
+      "bytes": 6241,
+      "sha256": "5852e6908932c8c1a5f900cc57d53965b869a733d39591d2bdfb98392955a5c1"
+    },
+    {
+      "ruta": "nombres-v1/ainhoa.m4a",
+      "bytes": 6593,
+      "sha256": "00021b3ac1abef8901fee768606a4fe12c2aeb216def1ab22d8dd88223ec5526"
+    },
+    {
+      "ruta": "nombres-v1/aitana.m4a",
+      "bytes": 7224,
+      "sha256": "8cbcc52ce09a08d6c2fde1eb99bd0c5fb19468d5fb69f5c14bfb2a6111cd79ac"
+    },
+    {
+      "ruta": "nombres-v1/aitor.m4a",
+      "bytes": 5373,
+      "sha256": "1efea0e3dfb5dae53febb5d2193a19eed49efc701de6b6b60c8138a9ce2448ba"
+    },
+    {
+      "ruta": "nombres-v1/alan.m4a",
+      "bytes": 5420,
+      "sha256": "37dddd7b75492b4e68142413b86030c2f6bf742cb1a1572654785d535852e390"
+    },
+    {
+      "ruta": "nombres-v1/alba.m4a",
+      "bytes": 4990,
+      "sha256": "6286a49e861995341b48a238649ef90511fae7a9aaaccd7d032c4cdbdc9a626d"
+    },
+    {
+      "ruta": "nombres-v1/alberto.m4a",
+      "bytes": 6896,
+      "sha256": "f136f85b43fb8088cecccd307eaac363c3786d4af4a63a2633917d48675a4598"
+    },
+    {
+      "ruta": "nombres-v1/aleix.m4a",
+      "bytes": 6482,
+      "sha256": "0a384def00bc9f9e62e3e7323ebf9d7406ec519cd9ec153705b2f82dc8c53e9c"
+    },
+    {
+      "ruta": "nombres-v1/alejandra.m4a",
+      "bytes": 7878,
+      "sha256": "9454af4fcfcfccb36eaf505e44142878ec27ee9080ecb49238229ba3f5488d65"
+    },
+    {
+      "ruta": "nombres-v1/alejandro.m4a",
+      "bytes": 7516,
+      "sha256": "6ad653013f9e3f2372c878c908b9a630921495c618951109539fa4c27c318deb"
+    },
+    {
+      "ruta": "nombres-v1/alex.m4a",
+      "bytes": 6451,
+      "sha256": "196057dcdf59c5bb9eeb7c0d725c510c845cbba037e781fc5c0195a80c575244"
+    },
+    {
+      "ruta": "nombres-v1/alexa.m4a",
+      "bytes": 6797,
+      "sha256": "509ff7561339b66dfdbf98b5eb42c94c78c40bb360de8e633b0cafa1eff9f700"
+    },
+    {
+      "ruta": "nombres-v1/alexander.m4a",
+      "bytes": 9255,
+      "sha256": "a13d44b5f44c486ecfe609109750195a5226ea6bf9b22f6452e752bbb89b4696"
+    },
+    {
+      "ruta": "nombres-v1/alexia.m4a",
+      "bytes": 6962,
+      "sha256": "6b667395f54e87ec6b85f79c6f1cf497d9ec18bc8712b10bfc7794ce729cfe9c"
+    },
+    {
+      "ruta": "nombres-v1/alicia.m4a",
+      "bytes": 6433,
+      "sha256": "ba93f68e56dc1c487c3a537c1f9101b1189595f62e6138bc10b4d30d70c36fce"
+    },
+    {
+      "ruta": "nombres-v1/alma.m4a",
+      "bytes": 5473,
+      "sha256": "6354e5a5c11ece8df3d06f94cb6578cfb1b1eb7914456a3e7bc2e4a11c2ba5c8"
+    },
+    {
+      "ruta": "nombres-v1/alonso.m4a",
+      "bytes": 6964,
+      "sha256": "9760d2e726d703af91966c1b0afd1cd261a127c62821ca33c818452f3b0de2f8"
+    },
+    {
+      "ruta": "nombres-v1/alvaro.m4a",
+      "bytes": 6330,
+      "sha256": "e19ad18e490f7b51989981c073d54519939aa8f144b6fb2d50218f4d76ecdd82"
+    },
+    {
+      "ruta": "nombres-v1/amaia.m4a",
+      "bytes": 6679,
+      "sha256": "a57b7e9b6057d8f9d165f1049d1fbc185be61c28744ed24d4397328e1a356424"
+    },
+    {
+      "ruta": "nombres-v1/amir.m4a",
+      "bytes": 5436,
+      "sha256": "bd46f6c3e333e9745573d5293a02a6262bb0018e141a09e877d2aedb9d3887b1"
+    },
+    {
+      "ruta": "nombres-v1/amira.m4a",
+      "bytes": 5866,
+      "sha256": "999d564d8b1e55e392c8c0e2e8765e8a0646923262ca64746bb659c735ae5c2b"
+    },
+    {
+      "ruta": "nombres-v1/ana-sofia.m4a",
+      "bytes": 8475,
+      "sha256": "def0f93893fd6d8efd409503a14909d66930c68b8f2c71ba4f22bf9a8c4d2fa7"
+    },
+    {
+      "ruta": "nombres-v1/ana.m4a",
+      "bytes": 4713,
+      "sha256": "8116bd1213f4bc39d4cb257b0ef055cf84a9711bf9a6ddb39a7fc540660abea0"
+    },
+    {
+      "ruta": "nombres-v1/anas.m4a",
+      "bytes": 5773,
+      "sha256": "b1e7416f14cdb7a424481a49c0d64ca684d87e05592043797065de303c369c90"
+    },
+    {
+      "ruta": "nombres-v1/ander.m4a",
+      "bytes": 5453,
+      "sha256": "78204e3ca9893bae20dc6d9d738e77eb09298bd6b3547c71c082e4b9e11c1a97"
+    },
+    {
+      "ruta": "nombres-v1/andrea.m4a",
+      "bytes": 6528,
+      "sha256": "a21622d6341741983bb1a6e6c8bd5d71bea6dadd31f307c6406d954536040caa"
+    },
+    {
+      "ruta": "nombres-v1/andres.m4a",
+      "bytes": 6606,
+      "sha256": "32e2d31009e07aa7f3f693c6eab298ff604c8afeaa2cd96f50f289930aa5e815"
+    },
+    {
+      "ruta": "nombres-v1/angel.m4a",
+      "bytes": 6496,
+      "sha256": "abac3d4a0bd3e62dc72c9d5a46cfae87d6d823e7fa7e181b9dca0606af0af92d"
+    },
+    {
+      "ruta": "nombres-v1/angela.m4a",
+      "bytes": 6698,
+      "sha256": "9babfb61c36c174663693e7ca0084f5fa81d3cf69240ddad7b6ea358447e1638"
+    },
+    {
+      "ruta": "nombres-v1/antonella.m4a",
+      "bytes": 7621,
+      "sha256": "ccb23c4c8554e3eca826e8da05ae1fe68fbbb7ece9cb5fcacbe70440eb65c233"
+    },
+    {
+      "ruta": "nombres-v1/antonio.m4a",
+      "bytes": 6115,
+      "sha256": "67457c0725e37f6af6bb050f19a4ec3230ccdc709ecbc77243d4fbe2ad5c5925"
+    },
+    {
+      "ruta": "nombres-v1/ariadna.m4a",
+      "bytes": 6839,
+      "sha256": "fb7251aeaed3cf6b4fd3c100aab15d98acb2630ed68425001ee7ee56257c6472"
+    },
+    {
+      "ruta": "nombres-v1/arlet.m4a",
+      "bytes": 6495,
+      "sha256": "6311df7df6f55df22190410e901a1813c86d70a31092ee5c43e81ac8ef2b8d73"
+    },
+    {
+      "ruta": "nombres-v1/arnau.m4a",
+      "bytes": 5687,
+      "sha256": "bc00dad9c4d672e6b2888d53d901b84813b749c80c1ff85de252a5f95c96e0b4"
+    },
+    {
+      "ruta": "nombres-v1/aroa.m4a",
+      "bytes": 6239,
+      "sha256": "86251ef242f20132777736e1118d19e888b9d8f7c3f6a94fdf36d755d2e36d24"
+    },
+    {
+      "ruta": "nombres-v1/ashley.m4a",
+      "bytes": 6060,
+      "sha256": "3b25fd234d00571a38fffaf10bdcfac78fe1854e627c06eabb1d207e1a470193"
+    },
+    {
+      "ruta": "nombres-v1/asier.m4a",
+      "bytes": 5754,
+      "sha256": "ab8ea694640f774eb49616ddd4c3c0f0f52ca5e5cf4fcf2bfec79171511b9377"
+    },
+    {
+      "ruta": "nombres-v1/aurora.m4a",
+      "bytes": 6430,
+      "sha256": "90ee0102a0307d29ae4042cb3c7e83a3cf75423dbdb07b5bb4d2fcd0d0a63a5c"
+    },
+    {
+      "ruta": "nombres-v1/axel.m4a",
+      "bytes": 6108,
+      "sha256": "3ff41addee2e72716b394887012fa4e8883d88e028d5747b0e77022f558e7386"
+    },
+    {
+      "ruta": "nombres-v1/aya.m4a",
+      "bytes": 5386,
+      "sha256": "149e73abea37d0d1adfe76c0b0f81a2a55670970c7aa211f06f95f8a215906fc"
+    },
+    {
+      "ruta": "nombres-v1/azahara.m4a",
+      "bytes": 5831,
+      "sha256": "6d66d83b68a0decfa7139f8a1d873e86db81b40276e89adfbdce2fb5992eb33e"
+    },
+    {
+      "ruta": "nombres-v1/bautista.m4a",
+      "bytes": 7695,
+      "sha256": "db55a027835bad78ca0d6904e516cb0bffac183fd683acdb58b5960ca0f28689"
+    },
+    {
+      "ruta": "nombres-v1/benicio.m4a",
+      "bytes": 7221,
+      "sha256": "4bafb1c3ef9efadca6dfc08971f966a0bfd332a487e0a86145fc9acda047c1b2"
+    },
+    {
+      "ruta": "nombres-v1/benjamin.m4a",
+      "bytes": 7219,
+      "sha256": "843b42856b98dd23f4893569fae18d79c5a8d7727a401b83a43991c461b80c4a"
+    },
+    {
+      "ruta": "nombres-v1/berta.m4a",
+      "bytes": 6441,
+      "sha256": "5ba938153292b8f460bae83631232769701a0a4fceee234f04f4e5a19491a84d"
+    },
+    {
+      "ruta": "nombres-v1/biel.m4a",
+      "bytes": 5160,
+      "sha256": "ad643be19699928cf0e73f4e506c4190a50eebb54747287576b7c99f3eed865b"
+    },
+    {
+      "ruta": "nombres-v1/blanca.m4a",
+      "bytes": 6283,
+      "sha256": "1699cd4722fbf589ef271caf6021a20f18fbba5614f05cfb71191150d59151ce"
+    },
+    {
+      "ruta": "nombres-v1/bruna.m4a",
+      "bytes": 6210,
+      "sha256": "0d8676dca5d3352c45bf461192d378f0c17dfa87b6e17ac7e3e45dff06dafbc8"
+    },
+    {
+      "ruta": "nombres-v1/bruno.m4a",
+      "bytes": 5406,
+      "sha256": "94425fdfd9c20d2fb55c078555f1ac0e0473c8774bd2ec00ec2a6dc77db03295"
+    },
+    {
+      "ruta": "nombres-v1/camila.m4a",
+      "bytes": 6264,
+      "sha256": "fb7640600ee9cee175f51dc9201ec70b61a46ff652ee9078a02c3048ed0a3b19"
+    },
+    {
+      "ruta": "nombres-v1/candela.m4a",
+      "bytes": 6887,
+      "sha256": "4724c4cd0af0705fceafd40f18e18400450906515b9c99bcd1503bbca678bc59"
+    },
+    {
+      "ruta": "nombres-v1/carla.m4a",
+      "bytes": 6024,
+      "sha256": "4ddfeead8302078c060d5fd56affaa603de46cc5faf227e52aba7923c97ff4f0"
+    },
+    {
+      "ruta": "nombres-v1/carlos.m4a",
+      "bytes": 5855,
+      "sha256": "38082df9f2818d8f5bf0f92c2e68981ae77f233a8a2446a45d19be09106e947e"
+    },
+    {
+      "ruta": "nombres-v1/carlota.m4a",
+      "bytes": 6421,
+      "sha256": "543633aa4926318e81e9f16eb498f6f9c565588bacdc5ffd291ce7a06e46781e"
+    },
+    {
+      "ruta": "nombres-v1/carmen.m4a",
+      "bytes": 6207,
+      "sha256": "fb9cccbefe17d799875767a58cac48f1575ceb0be3bba9d34167d95c96e325c4"
+    },
+    {
+      "ruta": "nombres-v1/carolina.m4a",
+      "bytes": 6778,
+      "sha256": "5674dc12eae6bfc2ad3e3252d6e07f8e052ced3e93f3afe0c711c874bd1f8ee8"
+    },
+    {
+      "ruta": "nombres-v1/catalina.m4a",
+      "bytes": 7967,
+      "sha256": "ff08eafbd2862e75ab86d055cb82191eaf112d4f2bf98b8ab24e65e4fea2b946"
+    },
+    {
+      "ruta": "nombres-v1/cayetana.m4a",
+      "bytes": 7703,
+      "sha256": "b694c04bcbecc504a904e5c34baffc02fb877511470c1f0d410bae0b7b934292"
+    },
+    {
+      "ruta": "nombres-v1/celeste.m4a",
+      "bytes": 6396,
+      "sha256": "f38b5677c0de16ce744ec876c923829b63b2b71418cdeaa4ef26659014b0823b"
+    },
+    {
+      "ruta": "nombres-v1/celia.m4a",
+      "bytes": 5572,
+      "sha256": "96834c573093c837ccf5ab9a914d4582aa0743221e57bcb95045172325876bb9"
+    },
+    {
+      "ruta": "nombres-v1/chloe.m4a",
+      "bytes": 5302,
+      "sha256": "ac0b73f4db1b69f76e1ae48c748922069290ef2b74cdb0987d32adab1b416200"
+    },
+    {
+      "ruta": "nombres-v1/clara.m4a",
+      "bytes": 5801,
+      "sha256": "b7321bbe8802b1a7b29f3e7d28e46d65ed1dde898c1f930308646de81eebc016"
+    },
+    {
+      "ruta": "nombres-v1/claudia.m4a",
+      "bytes": 6936,
+      "sha256": "10f1a205ede90cb181529da8bc567a72a6ab78bb1f7b242367f0d226ab678601"
+    },
+    {
+      "ruta": "nombres-v1/cloe.m4a",
+      "bytes": 5783,
+      "sha256": "9e78ad79879f6e53bcf468f1e1d4306bfed6199ebb2aea2a4e51b731d705c05c"
+    },
+    {
+      "ruta": "nombres-v1/cristian.m4a",
+      "bytes": 6558,
+      "sha256": "ba515ea23820d367846ae60d14a6b7318f46e093721ac10a371087cd36b45e6e"
+    },
+    {
+      "ruta": "nombres-v1/cristina.m4a",
+      "bytes": 7644,
+      "sha256": "82dd1edc2a8fcd371c24a3f23526ada74f68c0ef7e3ab45bdba4cbae401a167c"
+    },
+    {
+      "ruta": "nombres-v1/daniel.m4a",
+      "bytes": 5737,
+      "sha256": "35e03d89870a7414aafce2935037e7b3a13726e00f0207089cd0eb745ab7d90b"
+    },
+    {
+      "ruta": "nombres-v1/daniela.m4a",
+      "bytes": 6368,
+      "sha256": "aab555d931222efb252a61caf1c5848ac538c4bc3ea05d5b8a76a522bf373449"
+    },
+    {
+      "ruta": "nombres-v1/danna.m4a",
+      "bytes": 6044,
+      "sha256": "00a0c6d4c570530208ced7a4a75dd03e7352d6b12084a45c0c678fde0452462c"
+    },
+    {
+      "ruta": "nombres-v1/dario.m4a",
+      "bytes": 5959,
+      "sha256": "51474d9e12bb635f061b31a602204e790c1a76f5a5e475bc5f195ab9ba976e4b"
+    },
+    {
+      "ruta": "nombres-v1/david.m4a",
+      "bytes": 6131,
+      "sha256": "62056fd1768d055ad0fa5f295f12acef685a0b8e98eb69ea55f6db8f0e63f0f5"
+    },
+    {
+      "ruta": "nombres-v1/diana.m4a",
+      "bytes": 7195,
+      "sha256": "1b85fdc1e3e90d1ae2548d7f6073220ecc5262f544638d2186de971416321440"
+    },
+    {
+      "ruta": "nombres-v1/diego.m4a",
+      "bytes": 5776,
+      "sha256": "6727979d70a3c33db557ce039a81ec6b3fdaadaef260d7ac351db95786149f74"
+    },
+    {
+      "ruta": "nombres-v1/domenica.m4a",
+      "bytes": 7880,
+      "sha256": "382398f9a5377bca533b8e0224a0c4428eb3fef80f8a043263ed4dce17d60c93"
+    },
+    {
+      "ruta": "nombres-v1/dulce.m4a",
+      "bytes": 6197,
+      "sha256": "793dc6526cecb4d2c97967efd3e1c8e174959120d4e48e556088d2f2d372fc01"
+    },
+    {
+      "ruta": "nombres-v1/dylan.m4a",
+      "bytes": 5761,
+      "sha256": "0517adeda2c6eaf3fe64a9891366d3024cb15ef3147a8696de96ff542903b636"
+    },
+    {
+      "ruta": "nombres-v1/eithan.m4a",
+      "bytes": 6381,
+      "sha256": "011044b7635a1f3672c9bb45c172327938463b1999fa2e9a5e95525060f2e348"
+    },
+    {
+      "ruta": "nombres-v1/elena.m4a",
+      "bytes": 5766,
+      "sha256": "34c0db2b044b80984e5999583885644ad1cbfc2bf8bb5df7c308d399d0ce4f46"
+    },
+    {
+      "ruta": "nombres-v1/elia.m4a",
+      "bytes": 5721,
+      "sha256": "327e4042a7e1e81cb400ac7b0b482b37f9c3c7c95589efd1ed77fe8f2a4ae3e0"
+    },
+    {
+      "ruta": "nombres-v1/elias.m4a",
+      "bytes": 6651,
+      "sha256": "5481a3871efd7fcb3c79b041bf4705a99ecb06b00378c49261eb19d43c9dfc9d"
+    },
+    {
+      "ruta": "nombres-v1/elisa.m4a",
+      "bytes": 6620,
+      "sha256": "acc459609926fa0b86f9283670a46426398c9c0a6452ce95a5ccfc6433e27a54"
+    },
+    {
+      "ruta": "nombres-v1/elsa.m4a",
+      "bytes": 5767,
+      "sha256": "e3dc669abeb6ee77a6312c72e1d9481b2a79ef1958614b695ac7d3fd41f66ea9"
+    },
+    {
+      "ruta": "nombres-v1/emilia.m4a",
+      "bytes": 6532,
+      "sha256": "d6db64b2c4f5672477b89d50f73def8e954683202240edccbeb392a77243728c"
+    },
+    {
+      "ruta": "nombres-v1/emiliano.m4a",
+      "bytes": 6966,
+      "sha256": "fb2c2a776ee9a51a2660a50099c40d4f6c03ff2c036365d084c02ea59bc9d9a8"
+    },
+    {
+      "ruta": "nombres-v1/emily.m4a",
+      "bytes": 5518,
+      "sha256": "3ff7af319a2b3dd253bc0d0bb22566342a15ee7b8ad09072931edc14bdb09752"
+    },
+    {
+      "ruta": "nombres-v1/emma.m4a",
+      "bytes": 4939,
+      "sha256": "88463cbf85fcf98bb3aba3b5033adb3d333f3c49b279dc3227f8f264477cdbff"
+    },
+    {
+      "ruta": "nombres-v1/emmanuel.m4a",
+      "bytes": 6153,
+      "sha256": "d6773e371359483670c101cd737daa3c46088d14253fbcddb3e07f2566660cd9"
+    },
+    {
+      "ruta": "nombres-v1/enrique.m4a",
+      "bytes": 6582,
+      "sha256": "ae28a38291bcdf16a4ada369ff1ae88ed19dd3861494e1f966dce164b79b83e9"
+    },
+    {
+      "ruta": "nombres-v1/enzo.m4a",
+      "bytes": 6036,
+      "sha256": "384fb1be3c35da305ddf4878259ae9e481bc25de7fceca7791ae55ea92e65109"
+    },
+    {
+      "ruta": "nombres-v1/eric.m4a",
+      "bytes": 6097,
+      "sha256": "61fcc77eb15e670d86c7c1108654d4bd499d80eab9e97adbf3fa88c82bc4a2e4"
+    },
+    {
+      "ruta": "nombres-v1/erik.m4a",
+      "bytes": 5263,
+      "sha256": "4e17eb05924a6c54248dbb1a1fe748dc71140315eea64492f4a437146e9a4b7b"
+    },
+    {
+      "ruta": "nombres-v1/erika.m4a",
+      "bytes": 6467,
+      "sha256": "b41945291decf963f37ffb0bb1a810575f81ce915f9b14bd6e7e0d5d2670cd38"
+    },
+    {
+      "ruta": "nombres-v1/eva.m4a",
+      "bytes": 4747,
+      "sha256": "50659dce87696ef16fd193163d43acd9d1b16366f552de67b7b025d4fd6a8641"
+    },
+    {
+      "ruta": "nombres-v1/fabio.m4a",
+      "bytes": 6059,
+      "sha256": "7428272fc911ee94b848c97264ce2924d2d46957ed99808e12415d6deaa9a6b8"
+    },
+    {
+      "ruta": "nombres-v1/fatima.m4a",
+      "bytes": 6006,
+      "sha256": "3e0ad4ef175de60338cd1d3ffa812372e187fbd9e270bec33d5b9456b08ee9a6"
+    },
+    {
+      "ruta": "nombres-v1/felipe.m4a",
+      "bytes": 6395,
+      "sha256": "7a9c0b7934da404bd98cd5749ff49c620bf18ee5697abb47a0de66d306a92559"
+    },
+    {
+      "ruta": "nombres-v1/fernanda.m4a",
+      "bytes": 7989,
+      "sha256": "a69c79e0366e408df5a067ba092ecdd247d8a007fd5bfaca321cfa1c9496e9db"
+    },
+    {
+      "ruta": "nombres-v1/fernando.m4a",
+      "bytes": 6928,
+      "sha256": "f75576e8596502915dfe221e47997058aa3c0e052b8d1a75c405dbf7009f2505"
+    },
+    {
+      "ruta": "nombres-v1/francesca.m4a",
+      "bytes": 8431,
+      "sha256": "c49534036f1997fc3d414082d13df02f3de16d7a387f9abb8912426ee3de4b6b"
+    },
+    {
+      "ruta": "nombres-v1/francisco.m4a",
+      "bytes": 7608,
+      "sha256": "96d96948d13bb858f82e7f592d979c3db9dfd2ba8d8a4971bfe93fd580cd5df7"
+    },
+    {
+      "ruta": "nombres-v1/gabriel.m4a",
+      "bytes": 6183,
+      "sha256": "138691fde004b3891f3474c94e0614c8e012a6d6dbf8a2b02f16a772b1c537f7"
+    },
+    {
+      "ruta": "nombres-v1/gabriela.m4a",
+      "bytes": 7197,
+      "sha256": "a395cf8718ae90b2fbda58266f3bf82f144a2ff1ae884b39e349d4086d2fe6fa"
+    },
+    {
+      "ruta": "nombres-v1/gael.m4a",
+      "bytes": 6179,
+      "sha256": "1380cadf4d143d3aa3e1aad7b2dda8b55f5b209bcdcc12f56f74da00ddc1f275"
+    },
+    {
+      "ruta": "nombres-v1/gala.m4a",
+      "bytes": 6064,
+      "sha256": "1a74eace541e6938a699e5b6ad5438e25c874e8723786b1cdbb4cf9b45467d08"
+    },
+    {
+      "ruta": "nombres-v1/gonzalo.m4a",
+      "bytes": 6605,
+      "sha256": "6f03efff0b5d1d09887d0e0af0eb63f0af1762e73bb0abda227be79d0f15d9b8"
+    },
+    {
+      "ruta": "nombres-v1/greta.m4a",
+      "bytes": 5887,
+      "sha256": "4aff7725df065b852303cab11c9b841667c28f9cafa7906ccb271abdee9f2586"
+    },
+    {
+      "ruta": "nombres-v1/guadalupe.m4a",
+      "bytes": 7893,
+      "sha256": "6997003e7aa4bdd3178447ac5d087bf8bf8a4fa137c7ad9fdcfcac2c8c82c85d"
+    },
+    {
+      "ruta": "nombres-v1/guillermo.m4a",
+      "bytes": 7454,
+      "sha256": "2ce0ea03e0ce2d1c7a255dabab48ab10fbbfae467f9ad24553453ae432f25f2d"
+    },
+    {
+      "ruta": "nombres-v1/hector.m4a",
+      "bytes": 6246,
+      "sha256": "38bdc45d2f227b5795c673f878533940ec9d332f9075c90e7149df157c8cbf8a"
+    },
+    {
+      "ruta": "nombres-v1/helena.m4a",
+      "bytes": 5956,
+      "sha256": "be4764538798d8d45e10ec39109127f12125d5369bfb36163f7c11fca03e25ab"
+    },
+    {
+      "ruta": "nombres-v1/hugo.m4a",
+      "bytes": 5376,
+      "sha256": "0f4945960a742fdbcef5e15cfe3af9fc4244ca3c3cdb71633a036bae03e0b661"
+    },
+    {
+      "ruta": "nombres-v1/ian.m4a",
+      "bytes": 5117,
+      "sha256": "c49c0ceb3566c4dc074f474043f69278fffa2dd4d560b428b8f851b36ac1b7ab"
+    },
+    {
+      "ruta": "nombres-v1/ignacio.m4a",
+      "bytes": 6797,
+      "sha256": "110ffc2d652ba1dc2bbfb05b5d9278d4e76b7855802d9bcd69becd45b76e9e50"
+    },
+    {
+      "ruta": "nombres-v1/iker.m4a",
+      "bytes": 5329,
+      "sha256": "040971994f0f0654d863f55644b6dece0ed93c5b8dcd2a45f2dc487ea579e6e1"
+    },
+    {
+      "ruta": "nombres-v1/imran.m4a",
+      "bytes": 7018,
+      "sha256": "c8ca953a8a8bfb4a71a591b73649a46186992cffbe1fdf20676d80545521dfb5"
+    },
+    {
+      "ruta": "nombres-v1/india.m4a",
+      "bytes": 5734,
+      "sha256": "8c6558f0895c06c63a2c5fd9ab430021c7d32882630739bd47a12ae2c2d0d573"
+    },
+    {
+      "ruta": "nombres-v1/ines.m4a",
+      "bytes": 5550,
+      "sha256": "6b9268960fcfc6c061f41c4cb0cc5cae5a6db9b007fa49040e850d0f2acaffb9"
+    },
+    {
+      "ruta": "nombres-v1/irene.m4a",
+      "bytes": 6080,
+      "sha256": "bd63c05daab1cbda0d1b4fb8461d71b18c1015a9d698a9c61ef75eda626041e3"
+    },
+    {
+      "ruta": "nombres-v1/iria.m4a",
+      "bytes": 5592,
+      "sha256": "ef862ecb9332021fd4a44d01579688255fc20151368c8c1f5f6d21a7231d10e8"
+    },
+    {
+      "ruta": "nombres-v1/iris.m4a",
+      "bytes": 6099,
+      "sha256": "ac79faaca7aa4e7d9f35ff0862ca64157529913199215444340c03e56e870015"
+    },
+    {
+      "ruta": "nombres-v1/isaac.m4a",
+      "bytes": 5761,
+      "sha256": "241dc582979bd6903ca5a736cc699f85a0a80d81da8d60e79020ef8ced7dbf6b"
+    },
+    {
+      "ruta": "nombres-v1/isabel.m4a",
+      "bytes": 6195,
+      "sha256": "f978d929095329bc83bb66c39aff83c0da1138f3bfb34ecc7968d24d15a64bb4"
+    },
+    {
+      "ruta": "nombres-v1/isabella.m4a",
+      "bytes": 7540,
+      "sha256": "12ad5af83f809be793fbac1aa1e6d5c9158e9590a2ee7201fe9b0e2dc4facc78"
+    },
+    {
+      "ruta": "nombres-v1/isidora.m4a",
+      "bytes": 7323,
+      "sha256": "73951062079e3bffc14c143a900d17282ff98eb1adef1435bc6e72a06053d41c"
+    },
+    {
+      "ruta": "nombres-v1/ismael.m4a",
+      "bytes": 6834,
+      "sha256": "1019f84cdd6adbdf666bc96d4459650a40aa1143b86cb95e571122c99114265f"
+    },
+    {
+      "ruta": "nombres-v1/ivan.m4a",
+      "bytes": 5848,
+      "sha256": "610ed5891096a5397142f710bb14af8ea883e8e805c09de30cdf43973f080d0d"
+    },
+    {
+      "ruta": "nombres-v1/izan.m4a",
+      "bytes": 6284,
+      "sha256": "34164355cabd3bdf8e734f3b87632e51e8bbc9ece0b7dda94cc16dba7f49fea7"
+    },
+    {
+      "ruta": "nombres-v1/jaime.m4a",
+      "bytes": 5704,
+      "sha256": "622e21330fa7e1c5c9714c4f7673f28035ca1d4c0cb4bb5a7d77e3e56156d968"
+    },
+    {
+      "ruta": "nombres-v1/jan.m4a",
+      "bytes": 5153,
+      "sha256": "97e47d29cb9533f2914186ac8ed1852873d0c7046aceeffda78d598db5c3e639"
+    },
+    {
+      "ruta": "nombres-v1/jana.m4a",
+      "bytes": 6410,
+      "sha256": "a965756cff87bd51593d6e34885e94646108d286320551cdb951cadc62b7c3b0"
+    },
+    {
+      "ruta": "nombres-v1/javier.m4a",
+      "bytes": 6660,
+      "sha256": "a669b04ac6290c94a7f51408d65a247a4765757e750b8cef0a96670e528ab9cb"
+    },
+    {
+      "ruta": "nombres-v1/jeronimo.m4a",
+      "bytes": 6547,
+      "sha256": "dc097673751934e3dafb4e2a786893797f627ad9637378386ccffd92296cb373"
+    },
+    {
+      "ruta": "nombres-v1/jesus.m4a",
+      "bytes": 6489,
+      "sha256": "f15d6727bf677399e80d0f319a3f960223301f22ea4b19745bbaf7197276dbcd"
+    },
+    {
+      "ruta": "nombres-v1/jimena.m4a",
+      "bytes": 6694,
+      "sha256": "b3c998ef3d2b779fb291158e0adfe0b2aad4acb34d09f2eb6419f9de4bfe7fb4"
+    },
+    {
+      "ruta": "nombres-v1/joan.m4a",
+      "bytes": 5273,
+      "sha256": "3a8ddc798241821099fc3c1b33f8a390a80fe961669664ada7b36ac30cb2dadf"
+    },
+    {
+      "ruta": "nombres-v1/joaquin.m4a",
+      "bytes": 6477,
+      "sha256": "3d284c74dfa95139dc8c08a811370b4a11ebd9b13ac39fb4863ff104ffde0b9b"
+    },
+    {
+      "ruta": "nombres-v1/joel.m4a",
+      "bytes": 5313,
+      "sha256": "756c66760e5f4daec13b1bde5e141d36934027c88440440c87d5be63448a95c8"
+    },
+    {
+      "ruta": "nombres-v1/jon.m4a",
+      "bytes": 6063,
+      "sha256": "af86a34a62dc8f5481f20881d1960ada510a1b0392e993cb3a38fe66860d3ca8"
+    },
+    {
+      "ruta": "nombres-v1/jorge.m4a",
+      "bytes": 5757,
+      "sha256": "f211b1cb3dbf33e251b9132345255864793b36a5688fe7f047006866f7a44989"
+    },
+    {
+      "ruta": "nombres-v1/jose.m4a",
+      "bytes": 5756,
+      "sha256": "5786d1e1b8c3763750cf7e4ed02e1b84f6d09577c0bba08feaac411084dcb8c0"
+    },
+    {
+      "ruta": "nombres-v1/josefa.m4a",
+      "bytes": 6585,
+      "sha256": "816968b551527b3f657bf0770503a8631501e3a76b54c4a375101883052ce3c1"
+    },
+    {
+      "ruta": "nombres-v1/juan-ignacio.m4a",
+      "bytes": 9031,
+      "sha256": "73b5ceb3b00eb573e2143f581258af64a6a97758bbd7c4893e55fa57ea9c6eb5"
+    },
+    {
+      "ruta": "nombres-v1/juan-jose.m4a",
+      "bytes": 7388,
+      "sha256": "2593275f614d9432997ebe0742eb82fc37a26701cc4f6f765db5f9eefc5c18a1"
+    },
+    {
+      "ruta": "nombres-v1/juan-sebastian.m4a",
+      "bytes": 8835,
+      "sha256": "d9c810ebaf78e86445989643d3d6ff0748849d7a5dde53c97854fe093156e4ef"
+    },
+    {
+      "ruta": "nombres-v1/juan.m4a",
+      "bytes": 5898,
+      "sha256": "6675db3182a7f53cef2f2f05e794fd349e8217558b9b538de7a4f2ffd3633640"
+    },
+    {
+      "ruta": "nombres-v1/julen.m4a",
+      "bytes": 6398,
+      "sha256": "b4723cc9fa5771fb6f732ad960261362731518572beb1b8ad8184dffb84dd7eb"
+    },
+    {
+      "ruta": "nombres-v1/julia.m4a",
+      "bytes": 6479,
+      "sha256": "8e88db779c2d8fa7f0606765d5e10d09847edaa1536cd52ce861fa421041dfb9"
+    },
+    {
+      "ruta": "nombres-v1/julian.m4a",
+      "bytes": 6349,
+      "sha256": "4753e3dc2ece61873fb9d4fee1ecdf7c60a6537216298e132b69896204642cb0"
+    },
+    {
+      "ruta": "nombres-v1/julieta.m4a",
+      "bytes": 7060,
+      "sha256": "5ec2c2d2ae5841d91daf27bd603d60b3093bf78ac161007038e71461fc99df9c"
+    },
+    {
+      "ruta": "nombres-v1/june.m4a",
+      "bytes": 5114,
+      "sha256": "a3aae40db817044ec57240ad3e133c50c48e493be5a20578871ac5fceee20e92"
+    },
+    {
+      "ruta": "nombres-v1/kai.m4a",
+      "bytes": 4824,
+      "sha256": "0b973ca15b68ad86027ed02e11a7073272761d7561c6aebb5d6470047b0c193e"
+    },
+    {
+      "ruta": "nombres-v1/laia.m4a",
+      "bytes": 5687,
+      "sha256": "1f62b5a50c288e1129bda8597bc367e6725d55119d6306487b6aa66a7de21b59"
+    },
+    {
+      "ruta": "nombres-v1/lara.m4a",
+      "bytes": 5716,
+      "sha256": "44819f9b6e0cadc5bd27c8c9f31652a55b38c047b64be3f6d70daf68ee2ef004"
+    },
+    {
+      "ruta": "nombres-v1/laura.m4a",
+      "bytes": 5732,
+      "sha256": "185f2a79d8b79f5ae466e7938296dc17f47e31738d8348957f0067845b64cc7c"
+    },
+    {
+      "ruta": "nombres-v1/lautaro.m4a",
+      "bytes": 6515,
+      "sha256": "52aeedd69da010653d155788e7587cb090a0915c9d19f9939b10ccf747bf859b"
+    },
+    {
+      "ruta": "nombres-v1/leire.m4a",
+      "bytes": 5720,
+      "sha256": "38c4a1030a6989317e4e4b56230d5e1dac5778a846ede576bb450d656f65b683"
+    },
+    {
+      "ruta": "nombres-v1/leo.m4a",
+      "bytes": 5173,
+      "sha256": "12bfe4e653ad7136f59efa600e77671d35db6dd6337fe57e0f1afb056d57479d"
+    },
+    {
+      "ruta": "nombres-v1/leonardo.m4a",
+      "bytes": 8310,
+      "sha256": "85d82252f7c19ec39d9ffaa6f180019f25ec89db4c38431c0e4e69ad48df8838"
+    },
+    {
+      "ruta": "nombres-v1/lia.m4a",
+      "bytes": 5128,
+      "sha256": "7816fb4b9dd92b590f95bae02d6c4c3fc697fe6d43c611033d4fec7eb6600698"
+    },
+    {
+      "ruta": "nombres-v1/liam.m4a",
+      "bytes": 5878,
+      "sha256": "33b3c94a1ed7852400a10dfda73710e08240347bfad69948f56de273df9b1cde"
+    },
+    {
+      "ruta": "nombres-v1/lina.m4a",
+      "bytes": 5893,
+      "sha256": "018adabcc4698b15c605ca77bc1cbf6ea56a33e79a2d1587fb0934085a007d6a"
+    },
+    {
+      "ruta": "nombres-v1/lola.m4a",
+      "bytes": 5437,
+      "sha256": "b62685ba254a0f79a36ee8d234f7f93d2852a36c2c5bcbf15d901ec8e08e0581"
+    },
+    {
+      "ruta": "nombres-v1/lorenzo.m4a",
+      "bytes": 6976,
+      "sha256": "2121df51eab9638c989bdf2c2284b014374c404a4a0fba5877cd1ee3a9969225"
+    },
+    {
+      "ruta": "nombres-v1/luca.m4a",
+      "bytes": 6086,
+      "sha256": "912532b65b8c66fb91f42782d02fe9839902e9381a64df0fb7791013b2e03ebd"
+    },
+    {
+      "ruta": "nombres-v1/lucas.m4a",
+      "bytes": 6008,
+      "sha256": "8b7a4860d94498477ba54138db71025ee2443ed468df75f9716a27c27175e593"
+    },
+    {
+      "ruta": "nombres-v1/lucia.m4a",
+      "bytes": 6783,
+      "sha256": "aed0dbf78a57da030509a1d4a6bc40ea6e007cdf0576976674f1d5dc4035ca38"
+    },
+    {
+      "ruta": "nombres-v1/luciana.m4a",
+      "bytes": 7791,
+      "sha256": "9b99ae8f70d51235e9b6663b43ba4c26f0bd8fd1b07f6fe02d2d9d88d42ae374"
+    },
+    {
+      "ruta": "nombres-v1/lucina.m4a",
+      "bytes": 6675,
+      "sha256": "140b6c9e1df756a926573f078984068c01275d5207b8dad286f8fd7c047813f3"
+    },
+    {
+      "ruta": "nombres-v1/luis.m4a",
+      "bytes": 5648,
+      "sha256": "82123a2c7178e9e98a256a77442e39c33f1f98f2d90ba31973bc678aad696cfb"
+    },
+    {
+      "ruta": "nombres-v1/luna.m4a",
+      "bytes": 5694,
+      "sha256": "12d983051d21fef86bb83bf0b834dd6780fe99d2f7280e9ac0f1e90650826dc6"
+    },
+    {
+      "ruta": "nombres-v1/macarena.m4a",
+      "bytes": 7189,
+      "sha256": "1976a2579006fa9ce3f95332de0ab73be35cf72f017452255d44d940b58236c3"
+    },
+    {
+      "ruta": "nombres-v1/maia.m4a",
+      "bytes": 5628,
+      "sha256": "6f463af973229de17ad8d9dde9cee7dbaac4eca898f6bfc6d2f4204a067ed1e9"
+    },
+    {
+      "ruta": "nombres-v1/malak.m4a",
+      "bytes": 6332,
+      "sha256": "ff51c8fbfb6bf116b98fee4333038ed4912ce9ef6e91a9221fd147423737c7fe"
+    },
+    {
+      "ruta": "nombres-v1/manuel.m4a",
+      "bytes": 6222,
+      "sha256": "75ad1bd10b5edb19fa7dd810da139700f42f791d769f3295d9949c3198733509"
+    },
+    {
+      "ruta": "nombres-v1/manuela.m4a",
+      "bytes": 6802,
+      "sha256": "5b821eb293247bf39c90ac18b1b716a44df45befca729bf2cbed291224889a77"
+    },
+    {
+      "ruta": "nombres-v1/mar.m4a",
+      "bytes": 4924,
+      "sha256": "6e85c494bb7b4ce8daa9bbd9cb685454675fb451b4ba8e952c03589a3321d2ad"
+    },
+    {
+      "ruta": "nombres-v1/mara.m4a",
+      "bytes": 5298,
+      "sha256": "edf4365bbdcf64b4174ebc6a7f2e3da1e4d0925739239c5c989b884a03c073cd"
+    },
+    {
+      "ruta": "nombres-v1/marc.m4a",
+      "bytes": 5413,
+      "sha256": "cea1f161b52354491c07d064112053bbc187097787e589623cf30b97e6974df2"
+    },
+    {
+      "ruta": "nombres-v1/marco.m4a",
+      "bytes": 5809,
+      "sha256": "fdfa282c608017f98592455a9a81dc352ae2b6a9e5e56b1be0a98966f5869d66"
+    },
+    {
+      "ruta": "nombres-v1/marcos.m4a",
+      "bytes": 7061,
+      "sha256": "9032eaac14f879cde4e4be0d9174c7d5bcd3a81c03868c695eede564152626c0"
+    },
+    {
+      "ruta": "nombres-v1/maria-fernanda.m4a",
+      "bytes": 9746,
+      "sha256": "37524b4857ed13e08f6fa5d0fefe3f353847d970e830515b290bc9da80200a39"
+    },
+    {
+      "ruta": "nombres-v1/maria-guadalupe.m4a",
+      "bytes": 10508,
+      "sha256": "9ea6e197f789257dd15d0f60a05f04a05c6239c1290c745945316842029e005e"
+    },
+    {
+      "ruta": "nombres-v1/maria-jose.m4a",
+      "bytes": 7430,
+      "sha256": "ce0681a261a40cd023d614fb02e13212f088e709a210d0f2af6fa801f159793c"
+    },
+    {
+      "ruta": "nombres-v1/maria.m4a",
+      "bytes": 5987,
+      "sha256": "1660310881873b5918347a3a218cd054ef643736d7be1734bcb9fb5c9b56b3cd"
+    },
+    {
+      "ruta": "nombres-v1/mariana.m4a",
+      "bytes": 6893,
+      "sha256": "1e0e9099f9d4545570da9c74cc95a4cea41de73b595d88615c73bfc7867ab96c"
+    },
+    {
+      "ruta": "nombres-v1/marina.m4a",
+      "bytes": 6129,
+      "sha256": "7b22c0eccbc198743fc94bdc846afdbf4c1dd1f2e25192e57d102432a714a291"
+    },
+    {
+      "ruta": "nombres-v1/mario.m4a",
+      "bytes": 5988,
+      "sha256": "3dc8a2ff8047fe1ca9d1e7914d544eeb03f0b585ab7be5a69fb339445670cf1c"
+    },
+    {
+      "ruta": "nombres-v1/marta.m4a",
+      "bytes": 6045,
+      "sha256": "6f3c1db8ffbc4119d211079f7e2b2f039621919c1d08b50722aaf20b2cb01b2b"
+    },
+    {
+      "ruta": "nombres-v1/marti.m4a",
+      "bytes": 6783,
+      "sha256": "ed46ea5c712e62cf3919042cae467e674f48ba68e366951952c6d7e95db5c3c9"
+    },
+    {
+      "ruta": "nombres-v1/martin.m4a",
+      "bytes": 6857,
+      "sha256": "5772fbe99a230135faf4c5908f94466fd7543d63a875e2ca103e4c83d832f6ce"
+    },
+    {
+      "ruta": "nombres-v1/martina.m4a",
+      "bytes": 7427,
+      "sha256": "9e134f372e0897a04f7759711d28cd5ce9e8b4603381f7416e52dd8047eedd81"
+    },
+    {
+      "ruta": "nombres-v1/mateo.m4a",
+      "bytes": 6592,
+      "sha256": "4e714ef798b86efa28fa967f13c5587a74cd1deb0012cee63af67d703350ed94"
+    },
+    {
+      "ruta": "nombres-v1/mathias.m4a",
+      "bytes": 7290,
+      "sha256": "9a7799f264e853ba85640768df49b5ceac793b3d4a1e6ad1cdc891a88c32d28e"
+    },
+    {
+      "ruta": "nombres-v1/matias.m4a",
+      "bytes": 6750,
+      "sha256": "eedabb5a79cb05ae3d8fe937a03030c0abad994597033dd3783035565a47f6a1"
+    },
+    {
+      "ruta": "nombres-v1/mauro.m4a",
+      "bytes": 5674,
+      "sha256": "231d1c3cf69ad84eef7bf86006b29a5e213140d8e43fd444a8f6fb405e98990d"
+    },
+    {
+      "ruta": "nombres-v1/max.m4a",
+      "bytes": 5758,
+      "sha256": "1c88bb80ffe310fa411369ceca60f9dad63af668686198ab3cc9ced54ae55095"
+    },
+    {
+      "ruta": "nombres-v1/maximiliano.m4a",
+      "bytes": 8655,
+      "sha256": "f7f383d1bb90022bf06af5ebf8ec9129397b4a7194162b04878e0edfaa4c00b5"
+    },
+    {
+      "ruta": "nombres-v1/mia.m4a",
+      "bytes": 5448,
+      "sha256": "c4fa736c4356bcd9a19f5d619cf24ad11ab5f2fd48c3569ebe7b557d1273df1d"
+    },
+    {
+      "ruta": "nombres-v1/miguel-angel.m4a",
+      "bytes": 8004,
+      "sha256": "52a7014effdcf2459c30f9b1bdafbd3f3cf010c8dfde0ea252c57d8376b6ebb9"
+    },
+    {
+      "ruta": "nombres-v1/miguel.m4a",
+      "bytes": 5505,
+      "sha256": "3cfdc4ac7797e29164da565a667fcf5a06da7cedcaddaf2a5e5253ba7de236c5"
+    },
+    {
+      "ruta": "nombres-v1/milo.m4a",
+      "bytes": 5337,
+      "sha256": "f8a33fd9f72f0bb3683705702fe2c5037ba9f7d54379cc91910bb249892501ee"
+    },
+    {
+      "ruta": "nombres-v1/mireia.m4a",
+      "bytes": 6550,
+      "sha256": "809ef3fd0e6b4964a7f586f7cb1d983f2ee9485cb5bc152c991de1664c9262c8"
+    },
+    {
+      "ruta": "nombres-v1/mohamed.m4a",
+      "bytes": 6994,
+      "sha256": "bd7e18503a049a38e185a8c7a46c8d2f2d2f15c5bfbce9605f96d78daa3034f6"
+    },
+    {
+      "ruta": "nombres-v1/naia.m4a",
+      "bytes": 6095,
+      "sha256": "aba40a6bc25adb0c82ce08ffd140ac52b067a50bcb46024c018e261276beca5f"
+    },
+    {
+      "ruta": "nombres-v1/naiara.m4a",
+      "bytes": 6050,
+      "sha256": "e0915316227c961950289b053a085f3e56dc52dd57b24efbd18259344195eca6"
+    },
+    {
+      "ruta": "nombres-v1/natalia.m4a",
+      "bytes": 7616,
+      "sha256": "570037ee606a774e655c1c8d94d5ffc56de1f41fe004cddde17db1c3feb6e6ed"
+    },
+    {
+      "ruta": "nombres-v1/neizan.m4a",
+      "bytes": 6866,
+      "sha256": "791b522cd7a53bde1d8f74bed056c822d56e8787d054d361105fd04182207227"
+    },
+    {
+      "ruta": "nombres-v1/nerea.m4a",
+      "bytes": 5822,
+      "sha256": "90130045b8cb931d36b5deff0f3085c3241db99722c10a162d14b4ecec6a0762"
+    },
+    {
+      "ruta": "nombres-v1/nico.m4a",
+      "bytes": 6369,
+      "sha256": "674fba42be2367c33dd1e23b778c08a4ff3f088dbc84c1009f74336f782e94b4"
+    },
+    {
+      "ruta": "nombres-v1/nicolas.m4a",
+      "bytes": 7175,
+      "sha256": "9152f1f8c85bf3139c3020d20f76750e37fd4f8e9663d72cdc17ac5494a320b0"
+    },
+    {
+      "ruta": "nombres-v1/nil.m4a",
+      "bytes": 5360,
+      "sha256": "ceb0ba508d259b82cf8d5d0ace35caa4c9dcaaf80e414063fd80ef7b08d136e5"
+    },
+    {
+      "ruta": "nombres-v1/noa.m4a",
+      "bytes": 5521,
+      "sha256": "9aa637cadeb44e74c1f09c2e4e11410aba6cca5c8b37abacfef8ac1bace9307f"
+    },
+    {
+      "ruta": "nombres-v1/noah.m4a",
+      "bytes": 5574,
+      "sha256": "851cbcc4b7cc81241d0e50f06f0eccec88dc69c8f15d89dcafa9be05a6f2eb27"
+    },
+    {
+      "ruta": "nombres-v1/noelia.m4a",
+      "bytes": 6508,
+      "sha256": "c36dd58845e0a72e6bd8af883815dbc63545cb20869a13c4a55bb6a680a9abb5"
+    },
+    {
+      "ruta": "nombres-v1/nora.m4a",
+      "bytes": 5678,
+      "sha256": "1fb199f922885d22a0c3e94ca34fdcb6a9173dea328ec533b62d28fc468b6059"
+    },
+    {
+      "ruta": "nombres-v1/nour.m4a",
+      "bytes": 4747,
+      "sha256": "05a617b301aedd3afa09181e32d92fe742cb4925dfaead019dcbd8611114e75d"
+    },
+    {
+      "ruta": "nombres-v1/nuria.m4a",
+      "bytes": 6155,
+      "sha256": "4d7df7a5dbbe18bc6ca95d3b1ec55e7d7a9012e765434e64315e23625fc9b1db"
+    },
+    {
+      "ruta": "nombres-v1/oliver.m4a",
+      "bytes": 6497,
+      "sha256": "46fdc34b441afc2cfe51cb1d47542e0dd11012fe864995c5f25cbc252360d25c"
+    },
+    {
+      "ruta": "nombres-v1/olivia.m4a",
+      "bytes": 6239,
+      "sha256": "8468b75fa16f64d6c0580ecabdacb0eec220f95d60cf1bfb58e5dcc54e4e40a3"
+    },
+    {
+      "ruta": "nombres-v1/omar.m4a",
+      "bytes": 5933,
+      "sha256": "ca438d3250ed4fa0f15e5287b5286a11add7eeaad05d14d8c78fbbfd4d377c44"
+    },
+    {
+      "ruta": "nombres-v1/ona.m4a",
+      "bytes": 5006,
+      "sha256": "f5726bc1ae4a2d16a8e7b2e85ad6b51716c19cb561013d9b035f65b34ae49f40"
+    },
+    {
+      "ruta": "nombres-v1/oriol.m4a",
+      "bytes": 5860,
+      "sha256": "8f138dbb5ef45901479d0e3f6658d6c5642ee76b72e38e10610b5f4e244abfc8"
+    },
+    {
+      "ruta": "nombres-v1/oscar.m4a",
+      "bytes": 6157,
+      "sha256": "f37f9d150dfa2c0cdd2558ab554f5e196ff2b252d5001f21e04e9e3f7297a67e"
+    },
+    {
+      "ruta": "nombres-v1/pablo.m4a",
+      "bytes": 5422,
+      "sha256": "c7d07130fd4bfc4fe87adef619aa43cba3406bcb19c2eb66715650f34dc33998"
+    },
+    {
+      "ruta": "nombres-v1/paola.m4a",
+      "bytes": 6921,
+      "sha256": "2fffe7f9800c549ab7ee6426ce7f2d61ca8da5ef00c1370ff46056b1a840fa25"
+    },
+    {
+      "ruta": "nombres-v1/pau.m4a",
+      "bytes": 4733,
+      "sha256": "bc4fc0bc32371d1b03c790447bbf1441b348506d9ba772c69394b1fbb17f2f96"
+    },
+    {
+      "ruta": "nombres-v1/paula.m4a",
+      "bytes": 6123,
+      "sha256": "974576df8b38e5aec3c50430c225cc63609e77f45daba728cf05185fe8dbbe7c"
+    },
+    {
+      "ruta": "nombres-v1/pedro.m4a",
+      "bytes": 5680,
+      "sha256": "efcdbbcc94e9662e3341c87a808a716f21d21538c812c04f8b576cd8300a3484"
+    },
+    {
+      "ruta": "nombres-v1/pilar.m4a",
+      "bytes": 5822,
+      "sha256": "69656912862c1bff82243eae1dd313530ef78fcdf6cf645e9b7da1045654e16e"
+    },
+    {
+      "ruta": "nombres-v1/pol.m4a",
+      "bytes": 5256,
+      "sha256": "45acd27bd69469f443e385a36caff19ee73de8219eb1158f4df83e54024b5587"
+    },
+    {
+      "ruta": "nombres-v1/rafael.m4a",
+      "bytes": 7142,
+      "sha256": "45648cf2dfcb4b50bd01415ab1d88a1e4e1db0382e43bf7260814fbdd59e4716"
+    },
+    {
+      "ruta": "nombres-v1/raul.m4a",
+      "bytes": 5932,
+      "sha256": "92fd60768bcbd422b38b235ac296d3d30aa2f6edfc8757c02b78adb720c6e0b9"
+    },
+    {
+      "ruta": "nombres-v1/rayan.m4a",
+      "bytes": 6490,
+      "sha256": "36a41ea6201ed732d34f3cb8c3b14c4887d00d66608ee87034c1444940e3e838"
+    },
+    {
+      "ruta": "nombres-v1/regina.m4a",
+      "bytes": 7507,
+      "sha256": "d3c1c05ffda63c8b20de2e1891956c872c6b0ed8bad9ed251f50931daf33f2e8"
+    },
+    {
+      "ruta": "nombres-v1/renata.m4a",
+      "bytes": 6395,
+      "sha256": "57a66c9c83cf9cc0ff24cff319b5878d5b322179beb02e75cda8f562aa606b30"
+    },
+    {
+      "ruta": "nombres-v1/rocio.m4a",
+      "bytes": 7090,
+      "sha256": "8fdd96f42797c5b170228591e5d624b2a3f9271dc1f1707356d5b800149a9193"
+    },
+    {
+      "ruta": "nombres-v1/rodrigo.m4a",
+      "bytes": 7063,
+      "sha256": "d3e9c9b2f62b9b06de0a1d310ed616abb81fd61c36f47b7e33b3582efa7ee2e7"
+    },
+    {
+      "ruta": "nombres-v1/roger.m4a",
+      "bytes": 6304,
+      "sha256": "399ce6e514ee9dc85321fd137e9480fc344cec780bb1dfc17bce2a7c061ba458"
+    },
+    {
+      "ruta": "nombres-v1/roma.m4a",
+      "bytes": 5918,
+      "sha256": "59075fa9c43686034ba8a4b252b0ec99707ef78610b87103236e5b14a908f205"
+    },
+    {
+      "ruta": "nombres-v1/romina.m4a",
+      "bytes": 6184,
+      "sha256": "dcbfa3be5a5c4b107efd1c2183e62e5da4a05553fc502e6b6c68f7d21ad06e11"
+    },
+    {
+      "ruta": "nombres-v1/ruben.m4a",
+      "bytes": 5755,
+      "sha256": "f57e103a2b18829ee2c2bf9700afcad52fc7b9f4c38b1d8d18b8f23317b14a3b"
+    },
+    {
+      "ruta": "nombres-v1/salma.m4a",
+      "bytes": 6803,
+      "sha256": "3125b488e67caf8fb870b1388921ba788123d662b2f670f0c0af8f03f1c1d095"
+    },
+    {
+      "ruta": "nombres-v1/salome.m4a",
+      "bytes": 6272,
+      "sha256": "92b850b428a9f308732c169a7f6fdbaa865d5145d3b38f5ec4a444e40aa03360"
+    },
+    {
+      "ruta": "nombres-v1/samantha.m4a",
+      "bytes": 6953,
+      "sha256": "d9f14fbbf487dab0dab3ad6d8969ee6c300a86b2723cc2aaae39bbe274a12e2d"
+    },
+    {
+      "ruta": "nombres-v1/samuel.m4a",
+      "bytes": 5841,
+      "sha256": "56ba4a8a6105885a1663f9e05289f35b20b6673aa634a29803c9a7bee51a3ff5"
+    },
+    {
+      "ruta": "nombres-v1/santiago.m4a",
+      "bytes": 6906,
+      "sha256": "1719344c8da866c662b62d294716d7f9c74250eb63f404296b688345a2577c81"
+    },
+    {
+      "ruta": "nombres-v1/santino.m4a",
+      "bytes": 7034,
+      "sha256": "9e23ea94ed58027783c2821cdbe681cca8ed67d695eeaea57f9cddc511689bac"
+    },
+    {
+      "ruta": "nombres-v1/sara.m4a",
+      "bytes": 5118,
+      "sha256": "c2f52b237b4ba7074592825678608f75a8fb1faf2333ef5a506bf229288b310d"
+    },
+    {
+      "ruta": "nombres-v1/saul.m4a",
+      "bytes": 5715,
+      "sha256": "41691e93b40051e5ad705f7df42a2d2954572f64469ce23db96c4844590502c0"
+    },
+    {
+      "ruta": "nombres-v1/sebastian.m4a",
+      "bytes": 7284,
+      "sha256": "b5948d73ad2b7aa3d39802dd37096765589d63038ea93a9fdbd7fa52fdda52cf"
+    },
+    {
+      "ruta": "nombres-v1/sergio.m4a",
+      "bytes": 6362,
+      "sha256": "61f466cdabbd51751c557f07259d7ac9ac34976799d4418fbc2c0d22ca2b4664"
+    },
+    {
+      "ruta": "nombres-v1/sira.m4a",
+      "bytes": 5927,
+      "sha256": "6d48f734c7fefcb0929297bd52e5a9111bb0183f57840bbee89ba90da164ff26"
+    },
+    {
+      "ruta": "nombres-v1/sofia.m4a",
+      "bytes": 6337,
+      "sha256": "16251b651f110a467fb80629cce5295a74d3363199ebdba8e8b09f51fa39036c"
+    },
+    {
+      "ruta": "nombres-v1/teo.m4a",
+      "bytes": 4793,
+      "sha256": "a39e934ea903f5a181be9ccd993c246e1cc8e21204cbf28ee133fe7124a5d504"
+    },
+    {
+      "ruta": "nombres-v1/thiago.m4a",
+      "bytes": 5779,
+      "sha256": "0971ba423978b87fff8c1b27463882f1e4b808807393ff3427665bd1e7ab4f36"
+    },
+    {
+      "ruta": "nombres-v1/tomas.m4a",
+      "bytes": 5311,
+      "sha256": "7fd14c242d674540b02afe276d1f9c15e1755bdec4e052c075c11821e4323076"
+    },
+    {
+      "ruta": "nombres-v1/triana.m4a",
+      "bytes": 6888,
+      "sha256": "a6e2e7131f4aeec35e45d0fe435bcff3cdc3bfe72df56d4dcf19513599984e9d"
+    },
+    {
+      "ruta": "nombres-v1/trinidad.m4a",
+      "bytes": 6252,
+      "sha256": "8f0ce6b44b8b7560de35f40f68dc3ff19f4bc5358c3d08ff826d8e3361bc24fb"
+    },
+    {
+      "ruta": "nombres-v1/unai.m4a",
+      "bytes": 5685,
+      "sha256": "fa5f93cc4a6a671b3360f7455e97d84e98effc53d8b10a23b4abd8b92fd19dfc"
+    },
+    {
+      "ruta": "nombres-v1/valentina.m4a",
+      "bytes": 8169,
+      "sha256": "854548447c98044b7fcb9be37fb598451a1ea39fe2d873c13813506b3b51a58c"
+    },
+    {
+      "ruta": "nombres-v1/valentino.m4a",
+      "bytes": 7385,
+      "sha256": "d8b66ac3ab8c0f5d07f5c4746821b83acca5d62fa27cf4aaf1432617b52887b7"
+    },
+    {
+      "ruta": "nombres-v1/valeria.m4a",
+      "bytes": 7256,
+      "sha256": "658b14b6ba01fef4103633008875052a878e13065c1d335417a1566eb67c8ad9"
+    },
+    {
+      "ruta": "nombres-v1/vega.m4a",
+      "bytes": 5674,
+      "sha256": "2113f96f9fbbe4942688aa8c1d1e86999b3a156b276d3950ce5ba60d00f4bb65"
+    },
+    {
+      "ruta": "nombres-v1/vera.m4a",
+      "bytes": 5719,
+      "sha256": "d46b768b2639c7c3471aa21f0006065e3c169053094948f1e0ecb28ea6c2612f"
+    },
+    {
+      "ruta": "nombres-v1/vicente.m4a",
+      "bytes": 6291,
+      "sha256": "7757464a258419568b4ae7c7a3b757ba06952735496d2a1d4333a3dc54eecca8"
+    },
+    {
+      "ruta": "nombres-v1/victor.m4a",
+      "bytes": 6014,
+      "sha256": "3cd7e4337f2ee84b4f009b3ab3f20fda97ecccab8d18172c279e751a010d2ca4"
+    },
+    {
+      "ruta": "nombres-v1/victoria.m4a",
+      "bytes": 7493,
+      "sha256": "d7095da56ea8c4faea516f159b2f2260538b12b311ef91ac6d16fe0271250a3c"
+    },
+    {
+      "ruta": "nombres-v1/violeta.m4a",
+      "bytes": 6460,
+      "sha256": "b7eb02d674d1abad50f25c12c5fa165f1e7ae7bda1258c1e9229d813d31087c6"
+    },
+    {
+      "ruta": "nombres-v1/xavi.m4a",
+      "bytes": 4795,
+      "sha256": "627951bc56faf19c26a7ad4d114c05508c7b9f231e5d732f94d4474fb2c65b19"
+    },
+    {
+      "ruta": "nombres-v1/yago.m4a",
+      "bytes": 5714,
+      "sha256": "ac35d4e7d32d47b76fe0958da5e27f89e66764e2fb5af6badc2cd66e4b915552"
+    },
+    {
+      "ruta": "nombres-v1/yasmin.m4a",
+      "bytes": 5991,
+      "sha256": "8674165f5a06b14ecc68b0427a21d5d13e755e919e700909b631dd7d45d33f1b"
+    },
+    {
+      "ruta": "nombres-v1/youssef.m4a",
+      "bytes": 5554,
+      "sha256": "07220a23ecfd1fd6fc36cc50d1ec98c4f936a83765d1c4149454737ab2a9a2cd"
+    },
+    {
+      "ruta": "nombres-v1/zoe.m4a",
+      "bytes": 4168,
+      "sha256": "b74deb8684074f5ea0a2f4d876e74486443cca83880d211791b5ae995597a7a9"
+    },
+    {
+      "ruta": "recogida-A.m4a",
+      "bytes": 10127,
+      "sha256": "ffca94d0fa6bcf1751d6fb89aa42043f44d22a494fcba3af725c97858cc6fc19"
+    },
+    {
+      "ruta": "recogida-B.m4a",
+      "bytes": 19806,
+      "sha256": "6f2bb4db260a3146b657aeaa6c0651e56668f62f4ae75cde20786cf21debd35e"
+    },
+    {
+      "ruta": "video-off-A.m4a",
+      "bytes": 5106,
+      "sha256": "8d300c5cddc44fa42150cd1d2dffb3e58e354ec134cc57b0193418555fc1de89"
+    },
+    {
+      "ruta": "video-off-B.m4a",
+      "bytes": 22859,
+      "sha256": "ea8849ff2cb8e31e05f6b82f18654d02fbe7236ad37948362cda3c4ba4d73eb1"
+    }
+  ]
+}
