@@ -1,0 +1,121 @@
+{
+ "capitulo": 7,
+ "titulo": "La buhardilla de Gilito",
+ "duracion_s": 260.37,
+ "alineado": true,
+ "parrafos": [
+  {
+   "i": 1,
+   "t": 0.151
+  },
+  {
+   "i": 2,
+   "t": 22.913
+  },
+  {
+   "i": 3,
+   "t": 41.749
+  },
+  {
+   "i": 4,
+   "t": 44.583
+  },
+  {
+   "i": 5,
+   "t": 65.147
+  },
+  {
+   "i": 6,
+   "t": 80.263
+  },
+  {
+   "i": 7,
+   "t": 106.258
+  },
+  {
+   "i": 8,
+   "t": 120.952
+  },
+  {
+   "i": 9,
+   "t": 128.531
+  },
+  {
+   "i": 10,
+   "t": 145.503
+  },
+  {
+   "i": 11,
+   "t": 159.743
+  },
+  {
+   "i": 12,
+   "t": 178.688
+  },
+  {
+   "i": 13,
+   "t": 195.257
+  },
+  {
+   "i": 14,
+   "t": 212.29
+  },
+  {
+   "i": 15,
+   "t": 232.604
+  },
+  {
+   "i": 16,
+   "t": 236.589
+  },
+  {
+   "i": 17,
+   "t": 249.322
+  }
+ ],
+ "ilustraciones": [
+  {
+   "k": 1,
+   "archivo": "cap07-5.webp",
+   "desde_parrafo": 1,
+   "t": 0.151
+  },
+  {
+   "k": 2,
+   "archivo": "cap07-1.webp",
+   "desde_parrafo": 4,
+   "t": 44.583
+  },
+  {
+   "k": 3,
+   "archivo": "cap07-2.webp",
+   "desde_parrafo": 7,
+   "t": 106.258
+  },
+  {
+   "k": 4,
+   "archivo": "cap07-3.webp",
+   "desde_parrafo": 11,
+   "t": 159.743
+  },
+  {
+   "k": 5,
+   "archivo": "cap07-4.webp",
+   "desde_parrafo": 12,
+   "t": 178.688
+  },
+  {
+   "k": 6,
+   "archivo": "cap07-6.webp",
+   "desde_parrafo": 14,
+   "t": 212.29
+  },
+  {
+   "k": 7,
+   "archivo": "buenas-noches.webp",
+   "desde_parrafo": 16,
+   "t": 236.589
+  }
+ ],
+ "buenas_noches_t": 236.589
+}

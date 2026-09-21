@@ -1,0 +1,52 @@
+{
+ "paquete": "cuento-419-04",
+ "version": 1,
+ "bytes": 3324298,
+ "ficheros": [
+  {
+   "ruta": "buenas-noches.webp",
+   "bytes": 98714,
+   "sha256": "3bbfb76d28c8baacb007107a1597e5f5757d138919fc5c1653eec72f8225ee13"
+  },
+  {
+   "ruta": "cap04-1.webp",
+   "bytes": 110772,
+   "sha256": "cc1f33d8a91379b5a803458b64196860485c99a6b5322e7bd85a4b9bd7f52185"
+  },
+  {
+   "ruta": "cap04-2.webp",
+   "bytes": 121750,
+   "sha256": "ac867c22e1185e21c8a85053f8c49f68a9a072dfc961456fb1574fa5c47a52cf"
+  },
+  {
+   "ruta": "cap04-3.webp",
+   "bytes": 94974,
+   "sha256": "6e0ed1505be0ef0470776b8f75717c12ff8f103261771a94399704e234024024"
+  },
+  {
+   "ruta": "cap04-4.webp",
+   "bytes": 107532,
+   "sha256": "39211cce534022bee806679d6a35d582680ff4d82bc2af1cb54d2cb69eaee245"
+  },
+  {
+   "ruta": "cap04-5.webp",
+   "bytes": 104770,
+   "sha256": "1a51086a146f0c73533a2fc222e731ecd6f08d090b554b775129437c50923910"
+  },
+  {
+   "ruta": "cap04-6.webp",
+   "bytes": 170632,
+   "sha256": "7828f14c9fdf38da880d0292ee7bf2a17163f427dd2f8d96b2182f47e156865e"
+  },
+  {
+   "ruta": "cap04.json",
+   "bytes": 1390,
+   "sha256": "0eda84ea82846219a81e31b3aa1128e400000332dae3efef5d839e320863b882"
+  },
+  {
+   "ruta": "cap04.m4a",
+   "bytes": 2513764,
+   "sha256": "8c9700f2663dafd9381947c7bf65ffc33b3f6fa9608205964fd1f20a7c841afc"
+  }
+ ]
+}

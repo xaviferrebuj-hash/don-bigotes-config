@@ -1,0 +1,117 @@
+{
+ "capitulo": 4,
+ "titulo": "La noche que me quedé dormido debajo de una cama",
+ "duracion_s": 297.79,
+ "alineado": true,
+ "parrafos": [
+  {
+   "i": 1,
+   "t": 0.1
+  },
+  {
+   "i": 2,
+   "t": 12.682
+  },
+  {
+   "i": 3,
+   "t": 41.839
+  },
+  {
+   "i": 4,
+   "t": 70.581
+  },
+  {
+   "i": 5,
+   "t": 85.327
+  },
+  {
+   "i": 6,
+   "t": 98.077
+  },
+  {
+   "i": 7,
+   "t": 121.084
+  },
+  {
+   "i": 8,
+   "t": 143.536
+  },
+  {
+   "i": 9,
+   "t": 145.234
+  },
+  {
+   "i": 10,
+   "t": 169.673
+  },
+  {
+   "i": 11,
+   "t": 186.985
+  },
+  {
+   "i": 12,
+   "t": 203.286
+  },
+  {
+   "i": 13,
+   "t": 226.662
+  },
+  {
+   "i": 14,
+   "t": 253.836
+  },
+  {
+   "i": 15,
+   "t": 284.942
+  },
+  {
+   "i": 16,
+   "t": 292.032
+  }
+ ],
+ "ilustraciones": [
+  {
+   "k": 1,
+   "archivo": "cap04-5.webp",
+   "desde_parrafo": 2,
+   "t": 12.682
+  },
+  {
+   "k": 2,
+   "archivo": "cap04-2.webp",
+   "desde_parrafo": 3,
+   "t": 41.839
+  },
+  {
+   "k": 3,
+   "archivo": "cap04-1.webp",
+   "desde_parrafo": 6,
+   "t": 98.077
+  },
+  {
+   "k": 4,
+   "archivo": "cap04-3.webp",
+   "desde_parrafo": 9,
+   "t": 145.234
+  },
+  {
+   "k": 5,
+   "archivo": "cap04-4.webp",
+   "desde_parrafo": 12,
+   "t": 203.286
+  },
+  {
+   "k": 6,
+   "archivo": "cap04-6.webp",
+   "desde_parrafo": 15,
+   "t": 284.942
+  },
+  {
+   "k": 7,
+   "archivo": "buenas-noches.webp",
+   "desde_parrafo": 16,
+   "t": 292.032
+  }
+ ],
+ "buenas_noches_t": 292.032
+}

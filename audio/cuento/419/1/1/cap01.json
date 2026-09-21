@@ -1,0 +1,125 @@
+{
+ "capitulo": 1,
+ "titulo": "La caja de galletas",
+ "duracion_s": 291.56,
+ "alineado": true,
+ "parrafos": [
+  {
+   "i": 1,
+   "t": 0.13
+  },
+  {
+   "i": 2,
+   "t": 21.56
+  },
+  {
+   "i": 3,
+   "t": 32.045
+  },
+  {
+   "i": 4,
+   "t": 61.647
+  },
+  {
+   "i": 5,
+   "t": 88.02
+  },
+  {
+   "i": 6,
+   "t": 91.197
+  },
+  {
+   "i": 7,
+   "t": 109.618
+  },
+  {
+   "i": 8,
+   "t": 132.406
+  },
+  {
+   "i": 9,
+   "t": 143.015
+  },
+  {
+   "i": 10,
+   "t": 161.443
+  },
+  {
+   "i": 11,
+   "t": 166.15
+  },
+  {
+   "i": 12,
+   "t": 191.073
+  },
+  {
+   "i": 13,
+   "t": 194.839
+  },
+  {
+   "i": 14,
+   "t": 209.603
+  },
+  {
+   "i": 15,
+   "t": 239.146
+  },
+  {
+   "i": 16,
+   "t": 262.206
+  },
+  {
+   "i": 17,
+   "t": 277.33
+  },
+  {
+   "i": 18,
+   "t": 283.458
+  }
+ ],
+ "ilustraciones": [
+  {
+   "k": 1,
+   "archivo": "cap01-1.webp",
+   "desde_parrafo": 1,
+   "t": 0.13
+  },
+  {
+   "k": 2,
+   "archivo": "cap01-2.webp",
+   "desde_parrafo": 6,
+   "t": 91.197
+  },
+  {
+   "k": 3,
+   "archivo": "cap01-3.webp",
+   "desde_parrafo": 8,
+   "t": 132.406
+  },
+  {
+   "k": 4,
+   "archivo": "cap01-6.webp",
+   "desde_parrafo": 11,
+   "t": 166.15
+  },
+  {
+   "k": 5,
+   "archivo": "cap01-5.webp",
+   "desde_parrafo": 12,
+   "t": 191.073
+  },
+  {
+   "k": 6,
+   "archivo": "cap01-4.webp",
+   "desde_parrafo": 14,
+   "t": 209.603
+  },
+  {
+   "k": 7,
+   "archivo": "buenas-noches.webp",
+   "desde_parrafo": 17,
+   "t": 277.33
+  }
+ ],
+ "buenas_noches_t": 277.33
+}

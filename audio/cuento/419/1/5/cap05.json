@@ -1,0 +1,109 @@
+{
+ "capitulo": 5,
+ "titulo": "Una carta con sello de oro",
+ "duracion_s": 277.03,
+ "alineado": true,
+ "parrafos": [
+  {
+   "i": 1,
+   "t": 0.154
+  },
+  {
+   "i": 2,
+   "t": 17.794
+  },
+  {
+   "i": 3,
+   "t": 47.925
+  },
+  {
+   "i": 4,
+   "t": 55.186
+  },
+  {
+   "i": 5,
+   "t": 83.639
+  },
+  {
+   "i": 6,
+   "t": 105.435
+  },
+  {
+   "i": 7,
+   "t": 124.504
+  },
+  {
+   "i": 8,
+   "t": 139.122
+  },
+  {
+   "i": 9,
+   "t": 164.325
+  },
+  {
+   "i": 10,
+   "t": 189.012
+  },
+  {
+   "i": 11,
+   "t": 211.248
+  },
+  {
+   "i": 12,
+   "t": 230.049
+  },
+  {
+   "i": 13,
+   "t": 253.463
+  },
+  {
+   "i": 14,
+   "t": 266.938
+  }
+ ],
+ "ilustraciones": [
+  {
+   "k": 1,
+   "archivo": "cap05-1.webp",
+   "desde_parrafo": 2,
+   "t": 17.794
+  },
+  {
+   "k": 2,
+   "archivo": "cap05-5.webp",
+   "desde_parrafo": 4,
+   "t": 55.186
+  },
+  {
+   "k": 3,
+   "archivo": "cap05-2.webp",
+   "desde_parrafo": 9,
+   "t": 164.325
+  },
+  {
+   "k": 4,
+   "archivo": "cap05-3.webp",
+   "desde_parrafo": 10,
+   "t": 189.012
+  },
+  {
+   "k": 5,
+   "archivo": "cap05-6.webp",
+   "desde_parrafo": 11,
+   "t": 211.248
+  },
+  {
+   "k": 6,
+   "archivo": "cap05-4.webp",
+   "desde_parrafo": 12,
+   "t": 230.049
+  },
+  {
+   "k": 7,
+   "archivo": "buenas-noches.webp",
+   "desde_parrafo": 14,
+   "t": 266.938
+  }
+ ],
+ "buenas_noches_t": 266.938
+}

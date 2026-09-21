@@ -1,0 +1,113 @@
+{
+ "capitulo": 10,
+ "titulo": "La sonrisa completa",
+ "duracion_s": 254.34,
+ "alineado": true,
+ "parrafos": [
+  {
+   "i": 1,
+   "t": 0.154
+  },
+  {
+   "i": 2,
+   "t": 12.314
+  },
+  {
+   "i": 3,
+   "t": 32.439
+  },
+  {
+   "i": 4,
+   "t": 50.171
+  },
+  {
+   "i": 5,
+   "t": 67.274
+  },
+  {
+   "i": 6,
+   "t": 90.632
+  },
+  {
+   "i": 7,
+   "t": 107.676
+  },
+  {
+   "i": 8,
+   "t": 125.589
+  },
+  {
+   "i": 9,
+   "t": 151.371
+  },
+  {
+   "i": 10,
+   "t": 165.744
+  },
+  {
+   "i": 11,
+   "t": 174.42
+  },
+  {
+   "i": 12,
+   "t": 188.713
+  },
+  {
+   "i": 13,
+   "t": 205.505
+  },
+  {
+   "i": 14,
+   "t": 232.083
+  },
+  {
+   "i": 15,
+   "t": 247.227
+  }
+ ],
+ "ilustraciones": [
+  {
+   "k": 1,
+   "archivo": "cap10-1.webp",
+   "desde_parrafo": 4,
+   "t": 50.171
+  },
+  {
+   "k": 2,
+   "archivo": "cap10-5.webp",
+   "desde_parrafo": 5,
+   "t": 67.274
+  },
+  {
+   "k": 3,
+   "archivo": "cap10-2.webp",
+   "desde_parrafo": 6,
+   "t": 90.632
+  },
+  {
+   "k": 4,
+   "archivo": "cap10-6.webp",
+   "desde_parrafo": 9,
+   "t": 151.371
+  },
+  {
+   "k": 5,
+   "archivo": "cap10-3.webp",
+   "desde_parrafo": 11,
+   "t": 174.42
+  },
+  {
+   "k": 6,
+   "archivo": "cap10-4.webp",
+   "desde_parrafo": 13,
+   "t": 205.505
+  },
+  {
+   "k": 7,
+   "archivo": "buenas-noches.webp",
+   "desde_parrafo": 14,
+   "t": 232.083
+  }
+ ],
+ "buenas_noches_t": 232.083
+}

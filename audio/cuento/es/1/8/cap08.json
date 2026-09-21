@@ -1,0 +1,117 @@
+{
+ "capitulo": 8,
+ "titulo": "El diente que no apareció",
+ "duracion_s": 250.62,
+ "alineado": true,
+ "parrafos": [
+  {
+   "i": 1,
+   "t": 0.158
+  },
+  {
+   "i": 2,
+   "t": 12.529
+  },
+  {
+   "i": 3,
+   "t": 19.312
+  },
+  {
+   "i": 4,
+   "t": 47.459
+  },
+  {
+   "i": 5,
+   "t": 63.398
+  },
+  {
+   "i": 6,
+   "t": 67.528
+  },
+  {
+   "i": 7,
+   "t": 86.858
+  },
+  {
+   "i": 8,
+   "t": 120.811
+  },
+  {
+   "i": 9,
+   "t": 130.987
+  },
+  {
+   "i": 10,
+   "t": 146.815
+  },
+  {
+   "i": 11,
+   "t": 170.344
+  },
+  {
+   "i": 12,
+   "t": 181.775
+  },
+  {
+   "i": 13,
+   "t": 198.047
+  },
+  {
+   "i": 14,
+   "t": 214.985
+  },
+  {
+   "i": 15,
+   "t": 234.502
+  },
+  {
+   "i": 16,
+   "t": 247.159
+  }
+ ],
+ "ilustraciones": [
+  {
+   "k": 1,
+   "archivo": "cap08-1.webp",
+   "desde_parrafo": 4,
+   "t": 47.459
+  },
+  {
+   "k": 2,
+   "archivo": "cap08-2.webp",
+   "desde_parrafo": 7,
+   "t": 86.858
+  },
+  {
+   "k": 3,
+   "archivo": "cap08-3.webp",
+   "desde_parrafo": 9,
+   "t": 130.987
+  },
+  {
+   "k": 4,
+   "archivo": "cap08-6.webp",
+   "desde_parrafo": 10,
+   "t": 146.815
+  },
+  {
+   "k": 5,
+   "archivo": "cap08-4.webp",
+   "desde_parrafo": 11,
+   "t": 170.344
+  },
+  {
+   "k": 6,
+   "archivo": "cap08-5.webp",
+   "desde_parrafo": 12,
+   "t": 181.775
+  },
+  {
+   "k": 7,
+   "archivo": "buenas-noches.webp",
+   "desde_parrafo": 15,
+   "t": 234.502
+  }
+ ],
+ "buenas_noches_t": 234.502
+}

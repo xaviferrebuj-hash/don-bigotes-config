@@ -1,0 +1,109 @@
+{
+ "capitulo": 9,
+ "titulo": "Los primos de lejos",
+ "duracion_s": 256.68,
+ "alineado": true,
+ "parrafos": [
+  {
+   "i": 1,
+   "t": 0.133
+  },
+  {
+   "i": 2,
+   "t": 20.496
+  },
+  {
+   "i": 3,
+   "t": 40.273
+  },
+  {
+   "i": 4,
+   "t": 56.547
+  },
+  {
+   "i": 5,
+   "t": 82.395
+  },
+  {
+   "i": 6,
+   "t": 93.633
+  },
+  {
+   "i": 7,
+   "t": 111.66
+  },
+  {
+   "i": 8,
+   "t": 129.592
+  },
+  {
+   "i": 9,
+   "t": 149.84
+  },
+  {
+   "i": 10,
+   "t": 165.073
+  },
+  {
+   "i": 11,
+   "t": 188.787
+  },
+  {
+   "i": 12,
+   "t": 206.401
+  },
+  {
+   "i": 13,
+   "t": 230.647
+  },
+  {
+   "i": 14,
+   "t": 249.605
+  }
+ ],
+ "ilustraciones": [
+  {
+   "k": 1,
+   "archivo": "cap09-1.webp",
+   "desde_parrafo": 1,
+   "t": 0.133
+  },
+  {
+   "k": 2,
+   "archivo": "cap09-5.webp",
+   "desde_parrafo": 2,
+   "t": 20.496
+  },
+  {
+   "k": 3,
+   "archivo": "cap09-2.webp",
+   "desde_parrafo": 4,
+   "t": 56.547
+  },
+  {
+   "k": 4,
+   "archivo": "cap09-4.webp",
+   "desde_parrafo": 6,
+   "t": 93.633
+  },
+  {
+   "k": 5,
+   "archivo": "cap09-3.webp",
+   "desde_parrafo": 10,
+   "t": 165.073
+  },
+  {
+   "k": 6,
+   "archivo": "cap09-6.webp",
+   "desde_parrafo": 11,
+   "t": 188.787
+  },
+  {
+   "k": 7,
+   "archivo": "buenas-noches.webp",
+   "desde_parrafo": 13,
+   "t": 230.647
+  }
+ ],
+ "buenas_noches_t": 230.647
+}

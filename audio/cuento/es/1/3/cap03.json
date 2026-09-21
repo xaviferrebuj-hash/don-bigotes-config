@@ -1,0 +1,101 @@
+{
+ "capitulo": 3,
+ "titulo": "El Departamento de Dientes de Leche",
+ "duracion_s": 272.83,
+ "alineado": true,
+ "parrafos": [
+  {
+   "i": 1,
+   "t": 0.1
+  },
+  {
+   "i": 2,
+   "t": 15.456
+  },
+  {
+   "i": 3,
+   "t": 54.654
+  },
+  {
+   "i": 4,
+   "t": 73.678
+  },
+  {
+   "i": 5,
+   "t": 106.979
+  },
+  {
+   "i": 6,
+   "t": 129.539
+  },
+  {
+   "i": 7,
+   "t": 163.022
+  },
+  {
+   "i": 8,
+   "t": 194.233
+  },
+  {
+   "i": 9,
+   "t": 219.024
+  },
+  {
+   "i": 10,
+   "t": 234.607
+  },
+  {
+   "i": 11,
+   "t": 252.113
+  },
+  {
+   "i": 12,
+   "t": 265.807
+  }
+ ],
+ "ilustraciones": [
+  {
+   "k": 1,
+   "archivo": "cap03-2.webp",
+   "desde_parrafo": 1,
+   "t": 0.1
+  },
+  {
+   "k": 2,
+   "archivo": "cap03-1.webp",
+   "desde_parrafo": 3,
+   "t": 54.654
+  },
+  {
+   "k": 3,
+   "archivo": "cap03-5.webp",
+   "desde_parrafo": 5,
+   "t": 106.979
+  },
+  {
+   "k": 4,
+   "archivo": "cap03-3.webp",
+   "desde_parrafo": 6,
+   "t": 129.539
+  },
+  {
+   "k": 5,
+   "archivo": "cap03-6.webp",
+   "desde_parrafo": 9,
+   "t": 219.024
+  },
+  {
+   "k": 6,
+   "archivo": "cap03-4.webp",
+   "desde_parrafo": 10,
+   "t": 234.607
+  },
+  {
+   "k": 7,
+   "archivo": "buenas-noches.webp",
+   "desde_parrafo": 12,
+   "t": 265.807
+  }
+ ],
+ "buenas_noches_t": 265.807
+}
