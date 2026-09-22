@@ -1,20 +1,7 @@
 {
   "finLanzamientoGratis": "2026-08-31",
   "finLanzamientoGratisIos": "2026-01-01",
-  "cartero_real": {
-    "enabled": false,
-    "desde": "2026-12-01",
-    "min_build": 23,
-    "min_build_ios": 10,
-    "precio_texto": "5,99 €",
-    "producto_id": "cartero_real_2026"
-  },
   "audio_paquetes": {
-    "cartero": {
-      "version": 1,
-      "min_build": 23,
-      "min_build_ios": 10
-    },
     "cuento_es": {
       "version": 1,
       "min_build": 23,
@@ -27,6 +14,6 @@
     }
   },
   "cuento": {
-    "enabled": false
+    "enabled": true
   }
 }
