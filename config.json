@@ -17,12 +17,12 @@
     },
     "cuento_es": {
       "version": 1,
-      "min_build": 22,
+      "min_build": 23,
       "min_build_ios": 10
     },
     "cuento_419": {
       "version": 1,
-      "min_build": 22,
+      "min_build": 23,
       "min_build_ios": 10
     }
   },
