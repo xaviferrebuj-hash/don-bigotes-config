@@ -14,6 +14,8 @@
     }
   },
   "cuento": {
-    "enabled": true
+    "enabled": true,
+    "min_build": 23,
+    "min_build_ios": 10
   }
 }
