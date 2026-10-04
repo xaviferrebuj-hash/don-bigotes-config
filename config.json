@@ -29,10 +29,12 @@
   "ofertas": {
     "pack_cuento": {
       "enabled": true,
+      "min_build": 27,
       "min_build_ios": 13
     },
     "oferta_cuento": {
       "enabled": true,
+      "min_build": 27,
       "min_build_ios": 13
     }
   }
