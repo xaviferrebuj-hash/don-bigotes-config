@@ -1,0 +1,12 @@
+{
+ "paquete": "nombres-es-m2-12",
+ "version": 2,
+ "bytes": 2201485,
+ "ficheros": [
+  {
+   "ruta": "grupo.zip",
+   "bytes": 2201485,
+   "sha256": "afa22a42372e3bc8038ccd00c4dff7707b696b583b76fb583ab14c63c252c116"
+  }
+ ]
+}

@@ -1,0 +1,12 @@
+{
+ "paquete": "nombres-es-cumple-15",
+ "version": 2,
+ "bytes": 1463525,
+ "ficheros": [
+  {
+   "ruta": "grupo.zip",
+   "bytes": 1463525,
+   "sha256": "f3baf3ac19522f39c74824de2b067b487f068138a502b8b95d338eca38f97bb9"
+  }
+ ]
+}

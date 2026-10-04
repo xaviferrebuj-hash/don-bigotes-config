@@ -1,0 +1,12 @@
+{
+ "paquete": "nombres-es-cumple-04",
+ "version": 2,
+ "bytes": 872843,
+ "ficheros": [
+  {
+   "ruta": "grupo.zip",
+   "bytes": 872843,
+   "sha256": "1786476e32c12d34cc49d72bf309aed90de33ae5872866c68477ef9ac274a256"
+  }
+ ]
+}
