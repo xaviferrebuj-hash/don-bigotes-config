@@ -25,5 +25,15 @@
     "enabled": true,
     "min_build": 23,
     "min_build_ios": 10
+  },
+  "ofertas": {
+    "pack_cuento": {
+      "enabled": true,
+      "min_build_ios": 13
+    },
+    "oferta_cuento": {
+      "enabled": true,
+      "min_build_ios": 13
+    }
   }
 }
