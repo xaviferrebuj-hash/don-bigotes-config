@@ -4,13 +4,21 @@
   "audio_paquetes": {
     "cuento_es": {
       "version": 1,
+      "enabled": true,
       "min_build": 23,
       "min_build_ios": 10
     },
     "cuento_419": {
       "version": 1,
+      "enabled": true,
       "min_build": 23,
       "min_build_ios": 10
+    },
+    "nombres_es": {
+      "version": 2,
+      "enabled": true,
+      "min_build": 27,
+      "min_build_ios": 13
     }
   },
   "cuento": {
