@@ -1,0 +1,155 @@
+{
+ "capitulo": 1,
+ "titulo": "El ratón de campo y el ratón de ciudad",
+ "duracion_s": 292.52,
+ "alineado": true,
+ "parrafos": [
+  {
+   "i": 1,
+   "t": 0.058
+  },
+  {
+   "i": 2,
+   "t": 11.568
+  },
+  {
+   "i": 3,
+   "t": 29.982
+  },
+  {
+   "i": 4,
+   "t": 32.356
+  },
+  {
+   "i": 5,
+   "t": 54.246
+  },
+  {
+   "i": 6,
+   "t": 57.727
+  },
+  {
+   "i": 7,
+   "t": 77.127
+  },
+  {
+   "i": 8,
+   "t": 84.891
+  },
+  {
+   "i": 9,
+   "t": 104.169
+  },
+  {
+   "i": 10,
+   "t": 126.426
+  },
+  {
+   "i": 11,
+   "t": 128.448
+  },
+  {
+   "i": 12,
+   "t": 150.831
+  },
+  {
+   "i": 13,
+   "t": 153.01
+  },
+  {
+   "i": 14,
+   "t": 171.787
+  },
+  {
+   "i": 15,
+   "t": 174.143
+  },
+  {
+   "i": 16,
+   "t": 194.725
+  },
+  {
+   "i": 17,
+   "t": 205.008
+  },
+  {
+   "i": 18,
+   "t": 230.705
+  },
+  {
+   "i": 19,
+   "t": 232.799
+  },
+  {
+   "i": 20,
+   "t": 247.19
+  },
+  {
+   "i": 21,
+   "t": 260.685
+  },
+  {
+   "i": 22,
+   "t": 269.662
+  },
+  {
+   "i": 23,
+   "t": 271.44
+  },
+  {
+   "i": 24,
+   "t": 287.176
+  }
+ ],
+ "ilustraciones": [
+  {
+   "k": 1,
+   "archivo": "clasico01-1.webp",
+   "desde_parrafo": 1,
+   "t": 0.058
+  },
+  {
+   "k": 2,
+   "archivo": "clasico01-2.webp",
+   "desde_parrafo": 3,
+   "t": 29.982
+  },
+  {
+   "k": 3,
+   "archivo": "clasico01-5.webp",
+   "desde_parrafo": 7,
+   "t": 77.127
+  },
+  {
+   "k": 4,
+   "archivo": "clasico01-6.webp",
+   "desde_parrafo": 8,
+   "t": 84.891
+  },
+  {
+   "k": 5,
+   "archivo": "clasico01-3.webp",
+   "desde_parrafo": 9,
+   "t": 104.169
+  },
+  {
+   "k": 6,
+   "archivo": "clasico01-4.webp",
+   "desde_parrafo": 15,
+   "t": 174.143
+  },
+  {
+   "k": 7,
+   "archivo": "clasico01-7.webp",
+   "desde_parrafo": 20,
+   "t": 247.19
+  },
+  {
+   "k": 8,
+   "archivo": "clasico01-8.webp",
+   "desde_parrafo": 21,
+   "t": 260.685
+  }
+ ],
+ "buenas_noches_t": 292.52
+}

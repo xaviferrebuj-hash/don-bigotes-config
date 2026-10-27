@@ -1,0 +1,147 @@
+{
+ "capitulo": 5,
+ "titulo": "La boda del ratón",
+ "duracion_s": 278.44,
+ "alineado": true,
+ "parrafos": [
+  {
+   "i": 1,
+   "t": 0.061
+  },
+  {
+   "i": 2,
+   "t": 13.529
+  },
+  {
+   "i": 3,
+   "t": 21.166
+  },
+  {
+   "i": 4,
+   "t": 33.757
+  },
+  {
+   "i": 5,
+   "t": 43.226
+  },
+  {
+   "i": 6,
+   "t": 61.503
+  },
+  {
+   "i": 7,
+   "t": 74.519
+  },
+  {
+   "i": 8,
+   "t": 82.472
+  },
+  {
+   "i": 9,
+   "t": 92.305
+  },
+  {
+   "i": 10,
+   "t": 100.638
+  },
+  {
+   "i": 11,
+   "t": 112.862
+  },
+  {
+   "i": 12,
+   "t": 125.105
+  },
+  {
+   "i": 13,
+   "t": 142.466
+  },
+  {
+   "i": 14,
+   "t": 158.415
+  },
+  {
+   "i": 15,
+   "t": 179.189
+  },
+  {
+   "i": 16,
+   "t": 187.568
+  },
+  {
+   "i": 17,
+   "t": 194.617
+  },
+  {
+   "i": 18,
+   "t": 204.561
+  },
+  {
+   "i": 19,
+   "t": 233.435
+  },
+  {
+   "i": 20,
+   "t": 262.094
+  },
+  {
+   "i": 21,
+   "t": 263.438
+  },
+  {
+   "i": 22,
+   "t": 273.636
+  }
+ ],
+ "ilustraciones": [
+  {
+   "k": 1,
+   "archivo": "clasico05-1.webp",
+   "desde_parrafo": 1,
+   "t": 0.061
+  },
+  {
+   "k": 2,
+   "archivo": "clasico05-2.webp",
+   "desde_parrafo": 3,
+   "t": 21.166
+  },
+  {
+   "k": 3,
+   "archivo": "clasico05-3.webp",
+   "desde_parrafo": 6,
+   "t": 61.503
+  },
+  {
+   "k": 4,
+   "archivo": "clasico05-4.webp",
+   "desde_parrafo": 9,
+   "t": 92.305
+  },
+  {
+   "k": 5,
+   "archivo": "clasico05-5.webp",
+   "desde_parrafo": 11,
+   "t": 112.862
+  },
+  {
+   "k": 6,
+   "archivo": "clasico05-6.webp",
+   "desde_parrafo": 13,
+   "t": 142.466
+  },
+  {
+   "k": 7,
+   "archivo": "clasico05-7.webp",
+   "desde_parrafo": 18,
+   "t": 204.561
+  },
+  {
+   "k": 8,
+   "archivo": "clasico05-8.webp",
+   "desde_parrafo": 19,
+   "t": 233.435
+  }
+ ],
+ "buenas_noches_t": 278.44
+}

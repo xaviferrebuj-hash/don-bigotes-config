@@ -1,0 +1,57 @@
+{
+ "paquete": "clasico-es-03",
+ "version": 1,
+ "bytes": 3807395,
+ "ficheros": [
+  {
+   "ruta": "clasico03-1.webp",
+   "bytes": 177482,
+   "sha256": "59c6e027646924770079567ddfbadab97fc296e72bf770d88971f7f418a36d41"
+  },
+  {
+   "ruta": "clasico03-2.webp",
+   "bytes": 203060,
+   "sha256": "8f9eefbc9d3c9d11e76b39db07cdd800377e883eb6a6c8fb6dbe9088a47db98f"
+  },
+  {
+   "ruta": "clasico03-3.webp",
+   "bytes": 189624,
+   "sha256": "3baf08828453c78e63e1a2eee7cce6f4f6885aa3b0403a46ea074366fc56caa8"
+  },
+  {
+   "ruta": "clasico03-4.webp",
+   "bytes": 180610,
+   "sha256": "4b45d216480c1e52718afc4123530036b44be7ae97ec8f8cf0d2fffb1e492d3e"
+  },
+  {
+   "ruta": "clasico03-5.webp",
+   "bytes": 189790,
+   "sha256": "86f2881284269d76bc2e1284f435663c528ada12f391a999fd61700f17f92153"
+  },
+  {
+   "ruta": "clasico03-6.webp",
+   "bytes": 179906,
+   "sha256": "d17464bc7b1ecfed67c8658f660e53b280f69f93ec777aaa5946fa25319db66a"
+  },
+  {
+   "ruta": "clasico03-7.webp",
+   "bytes": 188350,
+   "sha256": "cf440e83d6b54ec6e99f874d978d46d4713220f2a42c5884574d6135af419416"
+  },
+  {
+   "ruta": "clasico03-8.webp",
+   "bytes": 182386,
+   "sha256": "28c19af7be0d72ab66b1675ee3526e63eaed8bb6bc9dad91482803650fdabb65"
+  },
+  {
+   "ruta": "clasico03.json",
+   "bytes": 1921,
+   "sha256": "e97b686c566c23416238e082af38ce8d095b74ecd5479e217cc89a9611e99fdd"
+  },
+  {
+   "ruta": "clasico03.m4a",
+   "bytes": 2314266,
+   "sha256": "c020933482b0db1899cdb9fe39d6fd8934e2da17d610f18ea9df3bed0c15a726"
+  }
+ ]
+}

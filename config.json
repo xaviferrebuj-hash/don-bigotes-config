@@ -19,6 +19,18 @@
       "enabled": true,
       "min_build": 27,
       "min_build_ios": 13
+    },
+    "clasicos_es": {
+      "version": 1,
+      "enabled": true,
+      "min_build": 36,
+      "min_build_ios": 21
+    },
+    "clasicos_419": {
+      "version": 1,
+      "enabled": true,
+      "min_build": 36,
+      "min_build_ios": 21
     }
   },
   "cuento": {

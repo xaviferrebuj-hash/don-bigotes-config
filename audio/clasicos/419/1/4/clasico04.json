@@ -1,0 +1,147 @@
+{
+ "capitulo": 4,
+ "titulo": "El concilio de los ratones",
+ "duracion_s": 272.35,
+ "alineado": true,
+ "parrafos": [
+  {
+   "i": 1,
+   "t": 0.054
+  },
+  {
+   "i": 2,
+   "t": 17.598
+  },
+  {
+   "i": 3,
+   "t": 27.122
+  },
+  {
+   "i": 4,
+   "t": 40.069
+  },
+  {
+   "i": 5,
+   "t": 41.894
+  },
+  {
+   "i": 6,
+   "t": 65.434
+  },
+  {
+   "i": 7,
+   "t": 72.227
+  },
+  {
+   "i": 8,
+   "t": 83.106
+  },
+  {
+   "i": 9,
+   "t": 107.816
+  },
+  {
+   "i": 10,
+   "t": 121.825
+  },
+  {
+   "i": 11,
+   "t": 130.714
+  },
+  {
+   "i": 12,
+   "t": 143.346
+  },
+  {
+   "i": 13,
+   "t": 155.119
+  },
+  {
+   "i": 14,
+   "t": 168.939
+  },
+  {
+   "i": 15,
+   "t": 195.166
+  },
+  {
+   "i": 16,
+   "t": 198.746
+  },
+  {
+   "i": 17,
+   "t": 220.753
+  },
+  {
+   "i": 18,
+   "t": 225.003
+  },
+  {
+   "i": 19,
+   "t": 238.803
+  },
+  {
+   "i": 20,
+   "t": 253.08
+  },
+  {
+   "i": 21,
+   "t": 254.638
+  },
+  {
+   "i": 22,
+   "t": 267.936
+  }
+ ],
+ "ilustraciones": [
+  {
+   "k": 1,
+   "archivo": "clasico04-1.webp",
+   "desde_parrafo": 1,
+   "t": 0.054
+  },
+  {
+   "k": 2,
+   "archivo": "clasico04-2.webp",
+   "desde_parrafo": 3,
+   "t": 27.122
+  },
+  {
+   "k": 3,
+   "archivo": "clasico04-3.webp",
+   "desde_parrafo": 4,
+   "t": 40.069
+  },
+  {
+   "k": 4,
+   "archivo": "clasico04-4.webp",
+   "desde_parrafo": 7,
+   "t": 72.227
+  },
+  {
+   "k": 5,
+   "archivo": "clasico04-5.webp",
+   "desde_parrafo": 12,
+   "t": 143.346
+  },
+  {
+   "k": 6,
+   "archivo": "clasico04-6.webp",
+   "desde_parrafo": 14,
+   "t": 168.939
+  },
+  {
+   "k": 7,
+   "archivo": "clasico04-7.webp",
+   "desde_parrafo": 15,
+   "t": 195.166
+  },
+  {
+   "k": 8,
+   "archivo": "clasico04-8.webp",
+   "desde_parrafo": 17,
+   "t": 220.753
+  }
+ ],
+ "buenas_noches_t": 272.35
+}
