@@ -1,0 +1,17 @@
+{
+  "paquete": "cepillado_419",
+  "version": 1,
+  "bytes": 2441606,
+  "ficheros": [
+    {
+      "ruta": "cancion.json",
+      "bytes": 483,
+      "sha256": "2baa7f5ac5e6de26a687f7be98663e76edee29012b4492e2fdd5cd6d7b9fefe1"
+    },
+    {
+      "ruta": "cancion.m4a",
+      "bytes": 2441123,
+      "sha256": "7e219ab3dd3982f299333b91f3d4118eb2e7566589fbf244dce47cd80c7f2821"
+    }
+  ]
+}

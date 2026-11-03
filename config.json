@@ -31,6 +31,18 @@
       "enabled": true,
       "min_build": 36,
       "min_build_ios": 21
+    },
+    "cepillado_es": {
+      "version": 1,
+      "enabled": true,
+      "min_build": 37,
+      "min_build_ios": 22
+    },
+    "cepillado_419": {
+      "version": 1,
+      "enabled": true,
+      "min_build": 37,
+      "min_build_ios": 22
     }
   },
   "cuento": {
