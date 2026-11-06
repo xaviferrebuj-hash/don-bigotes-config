@@ -15,7 +15,7 @@
       "min_build_ios": 10
     },
     "nombres_es": {
-      "version": 2,
+      "version": 3,
       "enabled": true,
       "min_build": 27,
       "min_build_ios": 13
