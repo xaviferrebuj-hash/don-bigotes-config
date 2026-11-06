@@ -1,7 +1,7 @@
 {
   "paquete": "cepillado_419",
   "version": 2,
-  "bytes": 6420228,
+  "bytes": 6419570,
   "ficheros": [
     {
       "ruta": "cancion-34-3D.m4a",
@@ -10,8 +10,8 @@
     },
     {
       "ruta": "cancion-79-7B.m4a",
-      "bytes": 2349310,
-      "sha256": "64c130664fd5539fd07d0aa98ac52c283992cef1e8507064971be4f2f5e56109"
+      "bytes": 2348654,
+      "sha256": "de77014b23055ec3152c9081ef000fed610e5aa02448ee4c0212389948157902"
     },
     {
       "ruta": "cancion.json",
@@ -25,8 +25,8 @@
     },
     {
       "ruta": "canciones.json",
-      "bytes": 1946,
-      "sha256": "ce40ea1868b2f31038f461b9de3234c5476829af695f2e1ccd4e44a88abed3de"
+      "bytes": 1944,
+      "sha256": "cb79b32d20672b4b04c7d3e2c355b1408890f3f76a5e64010b20d528d96c3f1f"
     },
     {
       "ruta": "dedicatoria-v1.m4a",
