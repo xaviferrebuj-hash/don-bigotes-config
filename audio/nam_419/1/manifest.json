@@ -1,7 +1,7 @@
 {
   "paquete": "nam_419",
   "version": 1,
-  "bytes": 4698222,
+  "bytes": 4698283,
   "ficheros": [
     {
       "ruta": "nam-1a.webp",
@@ -50,8 +50,8 @@
     },
     {
       "ruta": "nam.json",
-      "bytes": 1990,
-      "sha256": "9e2b73077720e8b5b4d05a6db42a1f38b4c563b230bf7f06b28d621edee7ed56"
+      "bytes": 2051,
+      "sha256": "d15918b601567a1a156f66467807554c4fd7d18eba7ca8d1674f4f98110268da"
     }
   ]
 }

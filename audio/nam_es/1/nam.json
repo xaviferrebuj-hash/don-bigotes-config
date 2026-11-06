@@ -2,8 +2,8 @@
  "capitulo": 1,
  "titulo": "La sonrisa de Ñam",
  "duracion_s": 375.99,
- "alineado": false,
- "metodo": "sin ASR: inicio de cada tramo del montaje; dentro, proporción de caracteres llevada al final de silencio más cercano (±2 s)",
+ "alineado": true,
+ "metodo": "inicio de cada tramo del montaje; dentro, la primera palabra del párrafo según el ASR large-v3 del 4-nov (Mac, mismos tramos), llevada al final de silencio más cercano (±2 s): 17 de 17",
  "fuente": "2026-11-04-nam-es-v2.mp3",
  "parrafos": [
   {
@@ -20,7 +20,7 @@
   },
   {
    "i": 4,
-   "t": 51.625
+   "t": 49.698
   },
   {
    "i": 5,
@@ -28,7 +28,7 @@
   },
   {
    "i": 6,
-   "t": 73.14
+   "t": 74.83
   },
   {
    "i": 7,
@@ -128,7 +128,7 @@
    "k": 3,
    "archivo": "nam-3a.webp",
    "desde_parrafo": 4,
-   "t": 51.625
+   "t": 49.698
   },
   {
    "k": 4,
