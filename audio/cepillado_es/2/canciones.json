@@ -1,0 +1,95 @@
+{
+  "idioma": "es",
+  "canciones": [
+    {
+      "id": "brilla-brilla",
+      "titulo": "Brilla, brilla, mi sonrisa",
+      "tramo": "t34",
+      "audio": "cancion-34-3D.m4a",
+      "duracion_s": 98.037,
+      "fuente": "2026-11-03-3D.mp3",
+      "zonas": [
+        {
+          "id": "arriba",
+          "inicio_s": 8.0,
+          "fin_s": 28.01
+        },
+        {
+          "id": "abajo",
+          "inicio_s": 28.01,
+          "fin_s": 48.02
+        },
+        {
+          "id": "fuera",
+          "inicio_s": 48.02,
+          "fin_s": 68.03
+        },
+        {
+          "id": "dentro",
+          "inicio_s": 68.03,
+          "fin_s": 88.03
+        }
+      ]
+    },
+    {
+      "id": "frota-frota",
+      "titulo": "Dos minutos con Don Bigotes",
+      "tramo": "t56",
+      "audio": "cancion.m4a",
+      "duracion_s": 148.036,
+      "fuente": "2026-11-03-cancion-C.mp3",
+      "zonas": [
+        {
+          "id": "arriba",
+          "inicio_s": 8.0,
+          "fin_s": 38.01
+        },
+        {
+          "id": "abajo",
+          "inicio_s": 38.01,
+          "fin_s": 68.02
+        },
+        {
+          "id": "fuera",
+          "inicio_s": 68.02,
+          "fin_s": 98.02
+        },
+        {
+          "id": "dentro",
+          "inicio_s": 98.02,
+          "fin_s": 128.03
+        }
+      ]
+    },
+    {
+      "id": "mision-sonrisa",
+      "titulo": "Misión Sonrisa",
+      "tramo": "t79",
+      "audio": "cancion-79-7B.m4a",
+      "duracion_s": 143.046,
+      "fuente": "2026-11-03-7B.mp3",
+      "zonas": [
+        {
+          "id": "arriba",
+          "inicio_s": 8.0,
+          "fin_s": 38.01
+        },
+        {
+          "id": "abajo",
+          "inicio_s": 38.01,
+          "fin_s": 68.02
+        },
+        {
+          "id": "fuera",
+          "inicio_s": 68.02,
+          "fin_s": 98.03
+        },
+        {
+          "id": "dentro",
+          "inicio_s": 98.03,
+          "fin_s": 128.04
+        }
+      ]
+    }
+  ]
+}

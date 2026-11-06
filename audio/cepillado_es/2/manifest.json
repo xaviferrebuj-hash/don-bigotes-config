@@ -1,0 +1,32 @@
+{
+  "paquete": "cepillado_es",
+  "version": 2,
+  "bytes": 6401132,
+  "ficheros": [
+    {
+      "ruta": "cancion-34-3D.m4a",
+      "bytes": 1607354,
+      "sha256": "b1b8285d648f3713c27a41b29217832dfa64a8b1a76968e4ccc7e1a460ce5b91"
+    },
+    {
+      "ruta": "cancion-79-7B.m4a",
+      "bytes": 2349310,
+      "sha256": "64c130664fd5539fd07d0aa98ac52c283992cef1e8507064971be4f2f5e56109"
+    },
+    {
+      "ruta": "cancion.json",
+      "bytes": 478,
+      "sha256": "25fc2ae7e0e049cabff93bc75a20dfb4c27fca25cdeac4af5c22ef599912ce32"
+    },
+    {
+      "ruta": "cancion.m4a",
+      "bytes": 2442049,
+      "sha256": "21bf124149194c8a42636e1f964fb198df657a2e2553f75e05831c104958f0e7"
+    },
+    {
+      "ruta": "canciones.json",
+      "bytes": 1941,
+      "sha256": "cedcdaf5bd1ed60b16fa3562b39eb7376c12b5ac04b175ca9475dc9fac6ed57e"
+    }
+  ]
+}

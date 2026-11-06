@@ -1,0 +1,57 @@
+{
+  "paquete": "nam_es",
+  "version": 1,
+  "bytes": 4672234,
+  "ficheros": [
+    {
+      "ruta": "nam-1a.webp",
+      "bytes": 198728,
+      "sha256": "72c6375a7a832dfdb50c3e3d9dce788211f97b291ec84b09f5b1a6b558ed6ad9"
+    },
+    {
+      "ruta": "nam-2a.webp",
+      "bytes": 203062,
+      "sha256": "11aeafb0948119fbc0bf9d05647817f4dc0b9ad7c1502572d511dbd8b670e081"
+    },
+    {
+      "ruta": "nam-3a.webp",
+      "bytes": 183712,
+      "sha256": "61ea8f9000353f0a02067890ba033c458cc0b7f9d3c9e7f317ed53f7b083f257"
+    },
+    {
+      "ruta": "nam-4a.webp",
+      "bytes": 204212,
+      "sha256": "97594e917d60fa5cf89a1fefd980e71289214d78698d2c3bbe828f1b20ece263"
+    },
+    {
+      "ruta": "nam-5a.webp",
+      "bytes": 200744,
+      "sha256": "41d7db9227c233ee91cf19e8dc25f9341c5c27aa6384d08f78439e17bf197d98"
+    },
+    {
+      "ruta": "nam-6a.webp",
+      "bytes": 193144,
+      "sha256": "3cd39e52bab4f06c3bbe4ca18d188715b929263bbc9aad6d6f42a09e738bac5b"
+    },
+    {
+      "ruta": "nam-7a.webp",
+      "bytes": 200526,
+      "sha256": "1f6535cfb043232d542784919477fb646874b595c8ebfb6cbd32da6bf5d54871"
+    },
+    {
+      "ruta": "nam-8a.webp",
+      "bytes": 190578,
+      "sha256": "cba131a983770893ed7359f9fe3d02fc3c456ee5f95193c20c8d50a345af0e6f"
+    },
+    {
+      "ruta": "nam-es-v2.m4a",
+      "bytes": 3095538,
+      "sha256": "0337199354baff7522d0494f5f82a65051d95747c790264a624dfc0a1cdd8b69"
+    },
+    {
+      "ruta": "nam.json",
+      "bytes": 1990,
+      "sha256": "0935814a2ad72e958d879ea5176f4d0b4c4b8c38966a98c40eec679e7078e6d0"
+    }
+  ]
+}

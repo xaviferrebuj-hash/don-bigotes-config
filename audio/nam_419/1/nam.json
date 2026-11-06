@@ -1,0 +1,165 @@
+{
+ "capitulo": 1,
+ "titulo": "La sonrisa de Ñam",
+ "duracion_s": 379.12,
+ "alineado": false,
+ "metodo": "sin ASR: inicio de cada tramo del montaje; dentro, proporción de caracteres llevada al final de silencio más cercano (±2 s)",
+ "fuente": "2026-11-04-nam-419-v2.mp3",
+ "parrafos": [
+  {
+   "i": 1,
+   "t": 0.125
+  },
+  {
+   "i": 2,
+   "t": 12.111
+  },
+  {
+   "i": 3,
+   "t": 35.321
+  },
+  {
+   "i": 4,
+   "t": 53.269
+  },
+  {
+   "i": 5,
+   "t": 71.995
+  },
+  {
+   "i": 6,
+   "t": 74.935
+  },
+  {
+   "i": 7,
+   "t": 91.104
+  },
+  {
+   "i": 8,
+   "t": 106.805
+  },
+  {
+   "i": 9,
+   "t": 117.337
+  },
+  {
+   "i": 10,
+   "t": 125.145
+  },
+  {
+   "i": 11,
+   "t": 136.445
+  },
+  {
+   "i": 12,
+   "t": 142.934
+  },
+  {
+   "i": 13,
+   "t": 153.683
+  },
+  {
+   "i": 14,
+   "t": 192.834
+  },
+  {
+   "i": 15,
+   "t": 222.525
+  },
+  {
+   "i": 16,
+   "t": 227.877
+  },
+  {
+   "i": 17,
+   "t": 244.233
+  },
+  {
+   "i": 18,
+   "t": 271.702
+  },
+  {
+   "i": 19,
+   "t": 294.95
+  },
+  {
+   "i": 20,
+   "t": 297.19
+  },
+  {
+   "i": 21,
+   "t": 314.655
+  },
+  {
+   "i": 22,
+   "t": 320.755
+  },
+  {
+   "i": 23,
+   "t": 322.871
+  },
+  {
+   "i": 24,
+   "t": 338.67
+  },
+  {
+   "i": 25,
+   "t": 353.621
+  },
+  {
+   "i": 26,
+   "t": 358.726
+  }
+ ],
+ "ilustraciones": [
+  {
+   "k": 1,
+   "archivo": "nam-1a.webp",
+   "desde_parrafo": 1,
+   "t": 0.125
+  },
+  {
+   "k": 2,
+   "archivo": "nam-2a.webp",
+   "desde_parrafo": 2,
+   "t": 12.111
+  },
+  {
+   "k": 3,
+   "archivo": "nam-3a.webp",
+   "desde_parrafo": 4,
+   "t": 53.269
+  },
+  {
+   "k": 4,
+   "archivo": "nam-4a.webp",
+   "desde_parrafo": 8,
+   "t": 106.805
+  },
+  {
+   "k": 5,
+   "archivo": "nam-5a.webp",
+   "desde_parrafo": 13,
+   "t": 153.683
+  },
+  {
+   "k": 6,
+   "archivo": "nam-6a.webp",
+   "desde_parrafo": 15,
+   "t": 222.525
+  },
+  {
+   "k": 7,
+   "archivo": "nam-7a.webp",
+   "desde_parrafo": 19,
+   "t": 294.95
+  },
+  {
+   "k": 8,
+   "archivo": "nam-8a.webp",
+   "desde_parrafo": 23,
+   "t": 322.871
+  }
+ ],
+ "buenas_noches_t": 379.12
+}
