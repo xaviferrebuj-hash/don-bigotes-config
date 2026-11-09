@@ -1,0 +1,29 @@
+{
+  "cancion": "frota-frota",
+  "idioma": "es",
+  "audio": "cancion.m4a",
+  "duracion_s": 148.036,
+  "fuente": "2026-11-03-cancion-C.mp3",
+  "zonas": [
+    {
+      "id": "arriba",
+      "inicio_s": 8.0,
+      "fin_s": 38.01
+    },
+    {
+      "id": "abajo",
+      "inicio_s": 38.01,
+      "fin_s": 68.02
+    },
+    {
+      "id": "fuera",
+      "inicio_s": 68.02,
+      "fin_s": 98.02
+    },
+    {
+      "id": "dentro",
+      "inicio_s": 98.02,
+      "fin_s": 128.03
+    }
+  ]
+}

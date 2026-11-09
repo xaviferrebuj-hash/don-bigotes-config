@@ -1,0 +1,12 @@
+{
+ "paquete": "nombres-es-indice",
+ "version": 3,
+ "bytes": 3443,
+ "ficheros": [
+  {
+   "ruta": "indice.json",
+   "bytes": 3443,
+   "sha256": "a5a7120dfc72a7f46794e8fd55c5bec508a5fcfa1321fb9d7124ff0883145f53"
+  }
+ ]
+}

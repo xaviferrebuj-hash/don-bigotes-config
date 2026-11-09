@@ -15,7 +15,7 @@
       "min_build_ios": 10
     },
     "nombres_es": {
-      "version": 2,
+      "version": 3,
       "enabled": true,
       "min_build": 27,
       "min_build_ios": 13
@@ -33,16 +33,28 @@
       "min_build_ios": 21
     },
     "cepillado_es": {
-      "version": 1,
+      "version": 2,
       "enabled": true,
       "min_build": 37,
       "min_build_ios": 22
     },
     "cepillado_419": {
-      "version": 1,
+      "version": 2,
       "enabled": true,
       "min_build": 37,
       "min_build_ios": 22
+    },
+    "nam_es": {
+      "version": 1,
+      "enabled": true,
+      "min_build": 38,
+      "min_build_ios": 23
+    },
+    "nam_419": {
+      "version": 1,
+      "enabled": true,
+      "min_build": 38,
+      "min_build_ios": 23
     }
   },
   "cuento": {

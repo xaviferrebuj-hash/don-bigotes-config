@@ -1,0 +1,12 @@
+{
+ "paquete": "nombres-es-video-12",
+ "version": 3,
+ "bytes": 899740,
+ "ficheros": [
+  {
+   "ruta": "grupo.zip",
+   "bytes": 899740,
+   "sha256": "e945012e14a86f8e8e2a4017c206f4a2195974fe278ad457fc69c4ada723fde4"
+  }
+ ]
+}
